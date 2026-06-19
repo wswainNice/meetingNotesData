@@ -1,0 +1,499 @@
+{
+  "entries": [
+    {
+      "id": "9e17d735-ac7b-48ad-8770-8d1917a3d3e5",
+      "Date": "2026-06-15",
+      "LogEntry": "Teach the team the order of loading config files in AI",
+      "Assignee": "",
+      "Subject": "8153f89d-1d22-4f6b-ab78-504429556245",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "94c89598-725a-45d1-acfc-b72f462db5fe",
+      "Date": "2026-06-17",
+      "LogEntry": "Talk to DFI team about upcoming assignments",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "ecfd64c5-1db4-4ba0-a3d1-bb1f923c12e4",
+      "Date": "2026-06-17",
+      "LogEntry": "Everyone reaches out directly to john and pulls him is different directions",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 18
+    },
+    {
+      "id": "93cf4fba-a960-45c2-b738-475f7d51061e",
+      "Date": "2026-06-15",
+      "LogEntry": "THere is a script for downloading repos in Cx Claude",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "04dde641-6881-45f8-bb56-d0c9b706d763",
+      "Date": "2026-06-15",
+      "LogEntry": " Notion - Jacob's old notes \nObsidian",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "4257dcb3-ce38-4952-89b5-ac68fc46ccef",
+      "Date": "2026-06-15",
+      "LogEntry": "USBC to HDMI",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 16
+    },
+    {
+      "id": "82c5b0bc-279d-4223-89db-f54ed7d38191",
+      "Date": "2026-06-15",
+      "LogEntry": "Claude - Bedrock\n\nLast we heard, Claude is not avaialble on bedrock. We just use copilot",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "7b39ee08-4b2d-41da-89a9-2fdb9b660349",
+      "Date": "2026-06-15",
+      "LogEntry": "Talk to Jesus -- What would be useful for a redrive\n\nContactID\nSESID\n",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 2
+    },
+    {
+      "id": "3f68dadd-86a8-4e9f-89f2-f4bd5e43f7ec",
+      "Date": "2026-06-15",
+      "LogEntry": "Share Grant and James lance want to set up a standardized approach for deploying the GDPR msi.\n\nhttps://teams.microsoft.com/l/message/19:6676182e98714214b13d69affb6cc4b7@thread.v2/1780500982289?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "",
+      "Subject": "22edd72c-081e-4bfc-ac77-fc2ce1a57f4d",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "b5d39f9e-b7d7-44cf-8432-b83eefac6d8c",
+      "Date": "2026-06-15",
+      "LogEntry": "Our records show that your account has not yet been migrated to Single Sign-On (SSO).\nUsername: wick.swain@jo1tma.com\nRegion: JO1",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 6
+    },
+    {
+      "id": "38945b70-f5ac-4229-8cbc-7cf21bc198c3",
+      "Date": "2026-06-15",
+      "LogEntry": "Lisa's 401k  login",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 7
+    },
+    {
+      "id": "a2d3ec8b-784d-4184-91d9-da8025ff16ef",
+      "Date": "2026-06-15",
+      "LogEntry": "Kiley - Synthetic Monitor\n",
+      "Assignee": "",
+      "Subject": "54de8292-62c8-4080-96b5-a128f71ff862",
+      "Reviewed": false,
+      "Order": 8
+    },
+    {
+      "id": "12b4ee3c-2009-41a2-99d1-726921158ae1",
+      "Date": "2026-06-15",
+      "LogEntry": "Marc - ",
+      "Assignee": "",
+      "Subject": "54de8292-62c8-4080-96b5-a128f71ff862",
+      "Reviewed": false,
+      "Order": 9
+    },
+    {
+      "id": "ef47fbc5-c061-4a11-bea8-7cad654cc0c8",
+      "Date": "2026-06-15",
+      "LogEntry": "Discuss logs that are in both Open APM (EKS) and Prague (Labmdas)",
+      "Assignee": "",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 23
+    },
+    {
+      "id": "d04a8979-1f9a-4c49-af12-a1b81896ef21",
+      "Date": "2026-06-15",
+      "LogEntry": "set up meeting with Wendy to discuss regression",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 3
+    },
+    {
+      "id": "e1a10f03-3b32-4051-9424-5372d37e2c55",
+      "Date": "2026-06-15",
+      "LogEntry": "Party",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 24
+    },
+    {
+      "id": "92b37377-c8e0-4143-bdc7-2b17377d3033",
+      "Date": "2026-06-15",
+      "LogEntry": "RUn a tech Tuesday discussing how to use AI tool for unit test creation",
+      "Assignee": "",
+      "Subject": "ad4bcb8a-a34c-4bdb-8a66-6993db7ca5bd",
+      "Reviewed": false,
+      "Order": 8
+    },
+    {
+      "id": "f81adbe0-bd77-4813-a0b4-bb618ab141a4",
+      "Date": "2026-06-15",
+      "LogEntry": "Discuss Vikram Progress with AI:\n\nTwo tools:\n1. Reusable tool to upgrade dot.net\nUpdates all repositories and package references across 9 layers\n\n2. Code coverage improvement tool\na) Added 14,000 lines of code to bring up code coverage from 75% to 93% avg across all email repos. Also reusabe for fixing gaps in code coverage",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 9
+    },
+    {
+      "id": "3d58a416-9451-433f-b3b2-1a3c91ed97a3",
+      "Date": "2026-06-15",
+      "LogEntry": "\nLast Meeting with Vikram\n\nDiscuss Vikram Progress with AI:\n\nTwo tools:\n1. Reusable tool to upgrade dot.net\nUpdates all repositories and package references across 9 layers\n\n2. Code coverage improvement tool\na) Added 14,000 lines of code to bring up code coverage from 75% to 93% avg across all email repos. Also reusabe for fixing gaps in code coverage",
+      "Assignee": "",
+      "Subject": "ad4bcb8a-a34c-4bdb-8a66-6993db7ca5bd",
+      "Reviewed": false,
+      "Order": 10
+    },
+    {
+      "id": "29e83a90-4df2-422f-98eb-3f30e4a14513",
+      "Date": "2026-06-15",
+      "LogEntry": "Namitha said it would be easier to promote peopel in March\n\nLast promotion in 2023. Principle position on list since 2024",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 11
+    },
+    {
+      "id": "977e921f-7557-4ffc-97f1-fae1f5d9fe34",
+      "Date": "2026-06-15",
+      "LogEntry": "Vikram wants to know what his options are for advancement\n\nHe is looking for principal position and a salary hike",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 12
+    },
+    {
+      "id": "d15ff865-2640-4244-bd80-87dea1f19f0b",
+      "Date": "2026-06-15",
+      "LogEntry": "Useful queries for logging using Open APM logs\n\nhttps://nice-ce-cxone-prod.atlassian.net/wiki/spaces/IN/pages/78351910/Searching+Logs+for+IB+OB+Email",
+      "Assignee": "Shefi",
+      "Subject": "16169f7f-8ac9-42dc-84ac-4e193272ca49",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "e6b9019b-ff00-4abf-825a-dc49ef012552",
+      "Date": "2026-06-15",
+      "LogEntry": "Agenda:\nSagar: Runbook\nMahima: Code Review - Send Emaiol API, \nMahima: Valkey Repo\nRupali: Dot.Net v6 to 10 upgrade \nChintan: Troubleshoot skill",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 21
+    },
+    {
+      "id": "e22c4726-1fe8-40f8-b799-2f9680db7d0c",
+      "Date": "2026-06-15",
+      "LogEntry": "Review how to handle open rooms in SMS",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "48b15e9d-a358-4686-be80-72afaafaea85",
+      "Date": "2026-06-22",
+      "LogEntry": "Set up Tues meeting with Chintan/Ghoash/Monica and leads. Team optional. For grooming",
+      "Assignee": "",
+      "Subject": "bd8e2181-26ab-4774-be56-577b42be4ae1",
+      "Reviewed": false,
+      "Order": 7
+    },
+    {
+      "id": "34d74147-0a74-4724-b456-b33d7d5b0aaf",
+      "Date": "2026-06-15",
+      "LogEntry": "Security Discussion showing how we handlep passwords",
+      "Assignee": "",
+      "Subject": "0e1bbac4-4222-4f50-90a6-e9a396b8aaef",
+      "Reviewed": false,
+      "Order": 15
+    },
+    {
+      "id": "14a2c53c-f514-4e65-bd0a-060a3e0817d9",
+      "Date": "2026-06-15",
+      "LogEntry": "John - get a copy of my Notes program",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 16
+    },
+    {
+      "id": "d5165459-178e-49f6-8008-42374c3b17c4",
+      "Date": "2026-06-16",
+      "LogEntry": "No notice of moratorium for NiCE World Conference",
+      "Assignee": "",
+      "Subject": "b8620ba4-112e-4a9c-a9bd-82bd63cf9e65",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "6f711172-aebc-4051-bda8-3d514bb1c98d",
+      "Date": "2026-06-17",
+      "LogEntry": "No on in Sandy email team has claude access. It limits our ability to do things such as analyze swarm issues",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "c288305e-9be2-4b38-a32b-51c98d2e0af4",
+      "Date": "2026-06-23",
+      "LogEntry": "Discuss of of new discussion thread for PR reviews . \n\nMayb put there first then include a link in requests elsewhere",
+      "Assignee": "",
+      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "c478695b-1eb5-48bf-839e-4ddc6f3af522",
+      "Date": "2026-06-23",
+      "LogEntry": "Top Golf Group Rates\nTues, 11-2, 25-30 people, team building activity\n\nAll golf bays together\nBuffet behind \n  - Fajita Fiesta tex/mex\n  - Natureal Bar, includes soft drinks, chips salsa queso\n  - Vegetarian",
+      "Assignee": "",
+      "Subject": "a3aa722d-c31d-4bdf-86c3-31effd3b1bc7",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "b080d79f-9417-4f84-8938-02000eb9e5a5",
+      "Date": "2026-06-23",
+      "LogEntry": "Fat Cats bowling, Bluffdale\n\n90 minutes\nLarge, 1 topping pizza\nUnlimited Soft Drinks\n1 hour arcade time play card\n\n$99 per lane",
+      "Assignee": "",
+      "Subject": "a3aa722d-c31d-4bdf-86c3-31effd3b1bc7",
+      "Reviewed": false,
+      "Order": 2
+    },
+    {
+      "id": "c99a6ba7-db57-4e81-8542-3e52df33e367",
+      "Date": "2026-06-16",
+      "LogEntry": "Share Grant and James lance want to set up a standardized approach for deploying the GDPR msi.\n\nhttps://teams.microsoft.com/l/message/19:6676182e98714214b13d69affb6cc4b7@thread.v2/1780500982289?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 31
+    },
+    {
+      "id": "fbf45466-abd4-4dbb-aedf-10cd04c7bf22",
+      "Date": "2026-06-23",
+      "LogEntry": "Review 8x testing, discuss how we want to set our prod environment based on findings",
+      "Assignee": "",
+      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
+      "Reviewed": false,
+      "Order": 3
+    },
+    {
+      "id": "4a4fb955-9ca2-4a72-adf4-f3344cb25bfd",
+      "Date": "2026-06-23",
+      "LogEntry": "I checked on prices for Top Golf and Fat Cats on Friday. It look like top golf provides a meal. I'm guessing they don't let you bring your own meal. If we want Top Golf it looks like we should go after lunch with no meal\n\n\n\nTop Golf:\n\n2 hours, 30 people - $700\n\nLeaderboard - $100\n\nFajita Lunch - $1050\n\nTotal - 2135.73\n\n\n\n\n\nFat Cats (Bowling)\n\n90 Minutes Bowling, \n\n(1) 60 Min Arcade Time Play Card, \n\nLarge Pizza, & \n\nDrinks for 6.\n\n1 lane\n\n\n\n$99\n\n\n\nSo if we get 9 lanes for 900 that gives us 9 large pizzas and 3 people per lane\n\n\n\n\n\nI'm open to other suggestions",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "502ec57f-bd72-41c2-8c0b-4b4a5bf09468",
+      "Date": "2026-06-16",
+      "LogEntry": "EUSov - could ot deploy last night because we could not get attention of Chris Bardsley. He was presenting when we tried to reach him in teams",
+      "Assignee": "",
+      "Subject": "b8620ba4-112e-4a9c-a9bd-82bd63cf9e65",
+      "Reviewed": false,
+      "Order": 38
+    },
+    {
+      "id": "83b3ff1e-c9d5-490e-87c2-8200afe8fa34",
+      "Date": "2026-06-17",
+      "LogEntry": "EUSov - We wanted to deploy to EUSov next week. We are told the soonest we can deploy is June 30",
+      "Assignee": "",
+      "Subject": "b8620ba4-112e-4a9c-a9bd-82bd63cf9e65",
+      "Reviewed": false,
+      "Order": 25
+    },
+    {
+      "id": "45962a9b-924c-4eb2-9af6-2f22a891ec06",
+      "Date": "2026-07-01",
+      "LogEntry": "Don Aguado -- see email -- let him know when Jared is finished with tool to resend email\n\n",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "cb20a7bc-8335-4b00-84cb-47eff8d57be8",
+      "Date": "2026-06-18",
+      "LogEntry": "Why the resistance to run a performance test\nWe need to understand how the new calendar works",
+      "Assignee": "",
+      "Subject": "f1ff6294-6329-4e39-ad98-50c42490c63e",
+      "Reviewed": false,
+      "Order": 41
+    },
+    {
+      "id": "baadc88c-c7ba-469e-87f4-04be6e81a90d",
+      "Date": "2026-06-18",
+      "LogEntry": "Why does everyone think they can do whatever they want?",
+      "Assignee": "",
+      "Subject": "206f163d-428c-4b01-81e2-672c586be457",
+      "Reviewed": false,
+      "Order": 42
+    },
+    {
+      "id": "0bd8f12d-b2fb-40b1-bcd6-d0ea7f45c6ec",
+      "Date": "2026-06-15",
+      "LogEntry": "Pipelines when they create packages and how versioning works",
+      "Assignee": "",
+      "Subject": "0e1bbac4-4222-4f50-90a6-e9a396b8aaef",
+      "Reviewed": false,
+      "Order": 44
+    },
+    {
+      "id": "745167eb-b406-4370-836c-5f2f945afda9",
+      "Date": "2026-06-15",
+      "LogEntry": "Piyush Jethwa email - OpenAPM",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 47
+    },
+    {
+      "id": "a9acc999-4812-4054-af8f-f893a9b19ac8",
+      "Date": "2026-06-18",
+      "LogEntry": "Ghosha email - ABN MRO -- do we think they are working now?",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 48
+    },
+    {
+      "id": "c226072b-05e2-49aa-ae38-55982884737c",
+      "Date": "2026-06-18",
+      "LogEntry": "Do we have links to open apm logs in our dashboard?",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 49
+    },
+    {
+      "id": "777b3a8c-4b66-4c70-89ce-f26024eb5894",
+      "Date": "2026-06-15",
+      "LogEntry": "Review https://nice-ce-cxone-prod.atlassian.net/browse/DE-171625\n\nHow can we moinitor to find this faster. Fill in RCA",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 48
+    },
+    {
+      "id": "589d4743-0187-4d3d-b9e6-3f479586fcd9",
+      "Date": "2026-06-25",
+      "LogEntry": "We need to monitor our nightly automation tests and fix them when they are broken\n\nReview https://nice-ce-cxone-prod.atlassian.net/browse/DE-171625\n\nHow can we moinitor to find this faster. Fill in RCA\n\nAdd everyone to email list of report, Have person on bug duty monitor and report if broken and debug",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "34dea315-3de6-4ace-b544-cf074d2eada4",
+      "Date": "2026-06-15",
+      "LogEntry": "Carl Simpson email -- ABN AMRO -- IB deficiencies",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "7327548b-b970-44d1-ac7f-50709d2efa8c",
+      "Date": "2026-06-15",
+      "LogEntry": "Do we have anything to demo? Meeting moved to Tuesday",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 50
+    },
+    {
+      "id": "a37605d4-d4a7-4e2d-a8f1-c77e7acccb80",
+      "Date": "2026-06-15",
+      "LogEntry": "Wedding this afternoon at 3:00",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 51
+    },
+    {
+      "id": "89b4eea8-eceb-40dd-8a87-3b5c1eb96732",
+      "Date": "2026-06-15",
+      "LogEntry": "Carl Sampson\nABN AMRO email\n\nI do the following:\n\nReconfigure the working channel from Graph inbound nice_dta_1@nl.abnamro.com to SES, this simulates the outage.\nSend a few new email messages into my outlook mailbox to which the channel was subscribed (it still is, API calls will be send out to you but the channel is not configured to use it anymore). This results in messages not making it to NICE as digital cases as expected\nI restore the “outage” by configuring the channel back to its previous working state by selecting the subscribed nice_dta_1@nl.abnamro.com again. This worked 2 mins ago before doing step 1. But now it does not come back in a working state up until…..  I go the the “advanced settings” tab, select the parent object to which the subscription is a child, and just re-upload the same PFX file and settings we configured yesterday and then the channel starts working again. * puzzled *\n\nThis scenario we can’t document as a SOP for a PR situation.",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 54
+    },
+    {
+      "id": "12facc1e-080b-4d77-8ab0-f4abd271af79",
+      "Date": "2026-06-25",
+      "LogEntry": "Max 50 msgs/min    Need 7200/min to throw 429",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "94ebcf4f-c6ae-4a30-ad74-76a3b6ec8230",
+      "Date": "2026-06-15",
+      "LogEntry": "Architecture ideas being promoted as high priority with no discussion even though they have no practical use\n\n7200 to send 429 response. Our current max is 200.\n\nBetter to spend our time blocking large amount of emails coming from the same address/bu\n\nBeing upset that Vikram used a FT from Infratools is a good example of this",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 55
+    },
+    {
+      "id": "83acc081-ab78-4c12-b8f7-9969425ddde8",
+      "Date": "2026-06-25",
+      "LogEntry": "We have our own repo for blazemeter",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 56
+    },
+    {
+      "id": "c3ef324f-60d9-4447-930c-fb312025736e",
+      "Date": "2026-06-25",
+      "LogEntry": "Blazemeter review: livenes, readiness, scaling, scaling metric threshods, scale amount pods, scaling period seconds, stabilizaiton window, min/max pods applicaiont logic, etc (FROM RETRO)",
+      "Assignee": "",
+      "Subject": "0e1bbac4-4222-4f50-90a6-e9a396b8aaef",
+      "Reviewed": false,
+      "Order": 57
+    },
+    {
+      "id": "82a73255-638d-4c7b-be2e-4441ba327153",
+      "Date": "2026-06-25",
+      "LogEntry": "Work IQ\n\nHow can we connect to MS teams, etc\n\nWhy was Vikram denied?",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 58
+    }
+  ]
+}
