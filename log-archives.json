@@ -1673,6 +1673,429 @@
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": true,
       "Order": 53
+    },
+    {
+      "id": "7327548b-b970-44d1-ac7f-50709d2efa8c",
+      "Date": "2026-06-15",
+      "LogEntry": "Do we have anything to demo? Meeting moved to Tuesday",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 50
+    },
+    {
+      "id": "a37605d4-d4a7-4e2d-a8f1-c77e7acccb80",
+      "Date": "2026-06-15",
+      "LogEntry": "Wedding this afternoon at 3:00",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 51
+    },
+    {
+      "id": "89b4eea8-eceb-40dd-8a87-3b5c1eb96732",
+      "Date": "2026-06-15",
+      "LogEntry": "Carl Sampson\nABN AMRO email\n\nI do the following:\n\nReconfigure the working channel from Graph inbound nice_dta_1@nl.abnamro.com to SES, this simulates the outage.\nSend a few new email messages into my outlook mailbox to which the channel was subscribed (it still is, API calls will be send out to you but the channel is not configured to use it anymore). This results in messages not making it to NICE as digital cases as expected\nI restore the “outage” by configuring the channel back to its previous working state by selecting the subscribed nice_dta_1@nl.abnamro.com again. This worked 2 mins ago before doing step 1. But now it does not come back in a working state up until…..  I go the the “advanced settings” tab, select the parent object to which the subscription is a child, and just re-upload the same PFX file and settings we configured yesterday and then the channel starts working again. * puzzled *\n\nThis scenario we can’t document as a SOP for a PR situation.",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 54
+    },
+    {
+      "id": "82c5b0bc-279d-4223-89db-f54ed7d38191",
+      "Date": "2026-06-15",
+      "LogEntry": "Claude - Bedrock\n\nLast we heard, Claude is not avaialble on bedrock. We just use copilot",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "f81adbe0-bd77-4813-a0b4-bb618ab141a4",
+      "Date": "2026-06-15",
+      "LogEntry": "Discuss Vikram Progress with AI:\n\nTwo tools:\n1. Reusable tool to upgrade dot.net\nUpdates all repositories and package references across 9 layers\n\n2. Code coverage improvement tool\na) Added 14,000 lines of code to bring up code coverage from 75% to 93% avg across all email repos. Also reusabe for fixing gaps in code coverage",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 9
+    },
+    {
+      "id": "29e83a90-4df2-422f-98eb-3f30e4a14513",
+      "Date": "2026-06-15",
+      "LogEntry": "Namitha said it would be easier to promote peopel in March\n\nLast promotion in 2023. Principle position on list since 2024",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 11
+    },
+    {
+      "id": "977e921f-7557-4ffc-97f1-fae1f5d9fe34",
+      "Date": "2026-06-15",
+      "LogEntry": "Vikram wants to know what his options are for advancement\n\nHe is looking for principal position and a salary hike",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 12
+    },
+    {
+      "id": "94ebcf4f-c6ae-4a30-ad74-76a3b6ec8230",
+      "Date": "2026-06-15",
+      "LogEntry": "Architecture ideas being promoted as high priority with no discussion even though they have no practical use\n\n7200 to send 429 response. Our current max is 200.\n\nBetter to spend our time blocking large amount of emails coming from the same address/bu\n\nBeing upset that Vikram used a FT from Infratools is a good example of this",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 55
+    },
+    {
+      "id": "93c6e6b4-ef94-42b3-b496-87cebf4ccf5f",
+      "Date": "2026-06-22",
+      "LogEntry": "I added you to the discussion regarding DE-152981 - GDPR Dpeloyment to production.  We have been ready for some time but we require others to deploy the code. They are stalling because they want to come up with a formal, automated process for the deployment.\n\nNeed to copy MSI and double click on it",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "cacbca5c-0072-427a-b9d5-c3f49188ff9e",
+      "Date": "2026-06-22",
+      "LogEntry": "Pune DevOps is not responsive when we need to deploy. They own the WFO account\n\nIntegration Lambdas\n\nNeed to update NodeJS Libraries. Response. Get help from code owner and have them deploy it.",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 49
+    },
+    {
+      "id": "94c89598-725a-45d1-acfc-b72f462db5fe",
+      "Date": "2026-06-17",
+      "LogEntry": "Talk to DFI team about upcoming assignments",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "ecfd64c5-1db4-4ba0-a3d1-bb1f923c12e4",
+      "Date": "2026-06-17",
+      "LogEntry": "Everyone reaches out directly to john and pulls him is different directions",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 18
+    },
+    {
+      "id": "6f711172-aebc-4051-bda8-3d514bb1c98d",
+      "Date": "2026-06-17",
+      "LogEntry": "No on in Sandy email team has claude access. It limits our ability to do things such as analyze swarm issues",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "745167eb-b406-4370-836c-5f2f945afda9",
+      "Date": "2026-06-22",
+      "LogEntry": "Piyush Jethwa email - OpenAPM",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 47
+    },
+    {
+      "id": "777b3a8c-4b66-4c70-89ce-f26024eb5894",
+      "Date": "2026-06-22",
+      "LogEntry": "Review https://nice-ce-cxone-prod.atlassian.net/browse/DE-171625\n\nHow can we moinitor to find this faster. Fill in RCA",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 48
+    },
+    {
+      "id": "34dea315-3de6-4ace-b544-cf074d2eada4",
+      "Date": "2026-06-23",
+      "LogEntry": "Carl Simpson email -- ABN AMRO -- IB deficiencies",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "a532dc70-b68f-407c-abbf-40b0e61f44b3",
+      "Date": "2026-06-23",
+      "LogEntry": "Get list of errors to Ghosha",
+      "Assignee": "Wick",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 8
+    },
+    {
+      "id": "274d948e-253e-48db-b88b-3e5e69951270",
+      "Date": "2026-06-23",
+      "LogEntry": "DWP Security Group Remediation: (chat)...  \nThe Expectation - Deliberate and Measured progress to Zero Trust. The expectation of teams is a measured and accountable set of actions that move the platform to a more secure environment with deliberate and managed flows. We MUST know everything that talks to everything, on what port, protocol, source and destination. A stricter enforcement of security groups will help us achieve that but your work NEEDs to be documented. This means if you define flows you should be updating diagrams, tables, etc whatever you use to do this. In addition the DWP team need to see numbers. So if you submit a CR that starts to restrict 10 security groups, that needs communicated to Craig and Ethan. They are required to directly speak to our progress with DWP, so it is on us and teams performing these changes to get that information to them. Dont just go change a bunch of things without documenting and communicating. The CR alone isn't enough document and communicate accordingly with the program team.",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "cc21399d-1ad4-4969-9925-ef88365c4ec3",
+      "Date": "2026-06-23",
+      "LogEntry": "Hey Everyone - following up from today's coordination call. We now have strong marching orders to remediate all security groups in UKSov1 against the 3 NCC findings by the end of month. A daily sync is going out now, please accept. I do not have all 80+ individuals from this channel on that sync, so if you do not have the invite and believe you should be on it, please let me know and I will send the invite to you.\n \nIf anything on your end cannot meet that deadline, escalate to JT, Sabir, and me immediately so we can get it in front of Lou, Itay, and whoever else needs to be in the loop. Don't wait for the daily call - flag it as soon as you know.",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "746d6753-c40f-4786-8821-4c40794d29ce",
+      "Date": "2026-06-23",
+      "LogEntry": "Can we finish DWP items in sprint 192",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "6933daeb-9d02-4842-a7ac-46faf08c1e82",
+      "Date": "2026-06-23",
+      "LogEntry": "Shefi -- CRs are approved",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 68
+    },
+    {
+      "id": "5b01aa70-0e5f-41bc-b6b2-b392e31fa572",
+      "Date": "2026-06-23",
+      "LogEntry": "Security Group Changes",
+      "Assignee": "Alyssa",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "fd499127-53c3-486b-868d-b6aad54d73ab",
+      "Date": "2026-06-23",
+      "LogEntry": "DE-71840 -- List of tests that can be cleaned up now that we have moved to Prague Devops deployment method",
+      "Assignee": "Janhavi",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 60
+    },
+    {
+      "id": "0e963b69-8c8c-4d2a-b21a-a09ae327cc66",
+      "Date": "2026-06-23",
+      "LogEntry": "DWP Security Group Remediation: (chat)...  \nThe Expectation - Deliberate and Measured progress to Zero Trust. The expectation of teams is a measured and accountable set of actions that move the platform to a more secure environment with deliberate and managed flows. We MUST know everything that talks to everything, on what port, protocol, source and destination. A stricter enforcement of security groups will help us achieve that but your work NEEDs to be documented. This means if you define flows you should be updating diagrams, tables, etc whatever you use to do this. In addition the DWP team need to see numbers. So if you submit a CR that starts to restrict 10 security groups, that needs communicated to Craig and Ethan. They are required to directly speak to our progress with DWP, so it is on us and teams performing these changes to get that information to them. Dont just go change a bunch of things without documenting and communicating. The CR alone isn't enough document and communicate accordingly with the program team.",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 39
+    },
+    {
+      "id": "a8128b8f-16a4-47f6-a9c4-9c250c956dbb",
+      "Date": "2026-06-23",
+      "LogEntry": "Hey Everyone - following up from today's coordination call. We now have strong marching orders to remediate all security groups in UKSov1 against the 3 NCC findings by the end of month. A daily sync is going out now, please accept. I do not have all 80+ individuals from this channel on that sync, so if you do not have the invite and believe you should be on it, please let me know and I will send the invite to you.",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "a35feb4e-b677-4649-b771-fca24b593fec",
+      "Date": "2026-06-23",
+      "LogEntry": "Mark - upgrade status?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 65
+    },
+    {
+      "id": "847428ab-3768-4056-863c-723c0cdaa9f3",
+      "Date": "2026-06-23",
+      "LogEntry": "\"As of now there are now problems with Division Number\"",
+      "Assignee": "Janhavi",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 66
+    },
+    {
+      "id": "95de52d4-eaab-4f23-9393-b823ef086329",
+      "Date": "2026-06-24",
+      "LogEntry": "Take OpenSearch Removal Ticket From Shefi",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "f4f0bfcb-37f0-44af-9f6f-21c7e6c9e0e7",
+      "Date": "2026-06-24",
+      "LogEntry": "Jared- take ABN items from John",
+      "Assignee": "Jared",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "08ab0324-d436-44b6-bc59-e732b5e157fb",
+      "Date": "2026-06-24",
+      "LogEntry": "Open APM Logging Teams Chat\n\nEveryone For PROD regions please note to update this \"awslogs-region\": \"%REGION%\", if it was hardcoding it to us-west-2 wont work for PROD. Agent also updated with same\n ",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 71
+    },
+    {
+      "id": "87cf4258-380b-42a3-ac4c-02b4c1dd369a",
+      "Date": "2026-06-24",
+      "LogEntry": "What messages do we add when reporting an error?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 72
+    },
+    {
+      "id": "e7a82b16-ebba-4374-a7c4-ad753ac83b47",
+      "Date": "2026-06-24",
+      "LogEntry": "Review https://nice-ce-cxone-prod.atlassian.net/browse/DE-172107\n\nOB load testing. Howmuch is done? add comment to epic",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 73
+    },
+    {
+      "id": "ff516c0c-efa7-4bbf-8485-a4dc01b138ea",
+      "Date": "2026-06-24",
+      "LogEntry": "ABN AMRO teams discussion",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 78
+    },
+    {
+      "id": "523386d1-fd70-4e82-86a3-711df8c3cd74",
+      "Date": "2026-06-24",
+      "LogEntry": "FIPS workaround -- is it still necessary",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 79
+    },
+    {
+      "id": "866b6477-8413-422d-913a-5decdbdcf84e",
+      "Date": "2026-06-24",
+      "LogEntry": "Post Standup discussion on merge (Jacob)",
+      "Assignee": "Jacob",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 80
+    },
+    {
+      "id": "9fd7db27-07aa-4ee1-9ba3-eb45b79bb98e",
+      "Date": "2026-06-24",
+      "LogEntry": "Run as administrator -- Aarthi -- install app",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 81
+    },
+    {
+      "id": "df299962-9721-4b30-9da9-6bc9e2a8a6a6",
+      "Date": "2026-06-24",
+      "LogEntry": "SHefi -- did you test OB 8x?  Is it in blazemeter?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 82
+    },
+    {
+      "id": "920e6e35-7a58-4dff-83d9-aa664260ed08",
+      "Date": "2026-06-24",
+      "LogEntry": "FOr errors, when do we get specific messages and when not?\n",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 83
+    },
+    {
+      "id": "f87f58e2-5518-40eb-97bf-caa6079944e2",
+      "Date": "2026-06-24",
+      "LogEntry": "Dhirave skip level on Wednesday",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "afd1a452-5e47-4e51-b033-36c8d3e0a472",
+      "Date": "2026-06-24",
+      "LogEntry": "No more 9:10 standup meetings",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 67
+    },
+    {
+      "id": "8e4ea3ac-5d92-4b59-a0ef-5de9032c51ce",
+      "Date": "2026-06-24",
+      "LogEntry": "For WFO deployments, involve Greg from Pune Devops team\n\nWas it Pune team or Prague team that we think needs to help us?\n\nAll lambdas handled by Pune or Prague?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 68
+    },
+    {
+      "id": "2d586828-22b4-44e3-bdbf-d7a3d788ee5b",
+      "Date": "2026-06-24",
+      "LogEntry": "Open APM Logging Teams Chat\n\nEveryone For PROD regions please note to update this \"awslogs-region\": \"%REGION%\", if it was hardcoding it to us-west-2 wont work for PROD. Agent also updated with same\n ",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 70
+    },
+    {
+      "id": "72f7d46e-cbfd-4139-b58f-0b6534c06b5c",
+      "Date": "2026-06-24",
+      "LogEntry": "Teams Chat \"DE-171202\"\n\nDo we own these?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 74
+    },
+    {
+      "id": "06a78639-ba62-44e4-9df6-82e04d2a13cd",
+      "Date": "2026-06-24",
+      "LogEntry": "Teams Chat: QA Leads - Digital Experience\n\nNo more manual test creation\n\n",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 75
+    },
+    {
+      "id": "97834682-9e84-4407-9902-884293625a6a",
+      "Date": "2026-06-25",
+      "LogEntry": "Did I state correctly that we cannot currently send an email  (see ABN AMRO-NiCE Teams Chat)",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 63
+    },
+    {
+      "id": "9517354d-94cb-46c3-b686-ccb95abf1163",
+      "Date": "2026-06-25",
+      "LogEntry": "SHow how OpenAPM works -- see screenshot",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 64
+    },
+    {
+      "id": "04be033b-102c-4596-92cf-a43495fab77e",
+      "Date": "2026-06-25",
+      "LogEntry": "How to test redrive process -- Aarthi \n\nJohn, do you have ideas?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 65
     }
   ]
 }

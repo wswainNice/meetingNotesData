@@ -10,24 +10,6 @@
       "Order": 0
     },
     {
-      "id": "94c89598-725a-45d1-acfc-b72f462db5fe",
-      "Date": "2026-06-17",
-      "LogEntry": "Talk to DFI team about upcoming assignments",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 0
-    },
-    {
-      "id": "ecfd64c5-1db4-4ba0-a3d1-bb1f923c12e4",
-      "Date": "2026-06-17",
-      "LogEntry": "Everyone reaches out directly to john and pulls him is different directions",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 18
-    },
-    {
       "id": "93cf4fba-a960-45c2-b738-475f7d51061e",
       "Date": "2026-06-15",
       "LogEntry": "THere is a script for downloading repos in Cx Claude",
@@ -53,15 +35,6 @@
       "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
       "Reviewed": false,
       "Order": 16
-    },
-    {
-      "id": "82c5b0bc-279d-4223-89db-f54ed7d38191",
-      "Date": "2026-06-15",
-      "LogEntry": "Claude - Bedrock\n\nLast we heard, Claude is not avaialble on bedrock. We just use copilot",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 1
     },
     {
       "id": "7b39ee08-4b2d-41da-89a9-2fdb9b660349",
@@ -154,15 +127,6 @@
       "Order": 8
     },
     {
-      "id": "f81adbe0-bd77-4813-a0b4-bb618ab141a4",
-      "Date": "2026-06-15",
-      "LogEntry": "Discuss Vikram Progress with AI:\n\nTwo tools:\n1. Reusable tool to upgrade dot.net\nUpdates all repositories and package references across 9 layers\n\n2. Code coverage improvement tool\na) Added 14,000 lines of code to bring up code coverage from 75% to 93% avg across all email repos. Also reusabe for fixing gaps in code coverage",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 9
-    },
-    {
       "id": "3d58a416-9451-433f-b3b2-1a3c91ed97a3",
       "Date": "2026-06-15",
       "LogEntry": "\nLast Meeting with Vikram\n\nDiscuss Vikram Progress with AI:\n\nTwo tools:\n1. Reusable tool to upgrade dot.net\nUpdates all repositories and package references across 9 layers\n\n2. Code coverage improvement tool\na) Added 14,000 lines of code to bring up code coverage from 75% to 93% avg across all email repos. Also reusabe for fixing gaps in code coverage",
@@ -170,24 +134,6 @@
       "Subject": "ad4bcb8a-a34c-4bdb-8a66-6993db7ca5bd",
       "Reviewed": false,
       "Order": 10
-    },
-    {
-      "id": "29e83a90-4df2-422f-98eb-3f30e4a14513",
-      "Date": "2026-06-15",
-      "LogEntry": "Namitha said it would be easier to promote peopel in March\n\nLast promotion in 2023. Principle position on list since 2024",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 11
-    },
-    {
-      "id": "977e921f-7557-4ffc-97f1-fae1f5d9fe34",
-      "Date": "2026-06-15",
-      "LogEntry": "Vikram wants to know what his options are for advancement\n\nHe is looking for principal position and a salary hike",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 12
     },
     {
       "id": "d15ff865-2640-4244-bd80-87dea1f19f0b",
@@ -253,17 +199,8 @@
       "Order": 0
     },
     {
-      "id": "6f711172-aebc-4051-bda8-3d514bb1c98d",
-      "Date": "2026-06-17",
-      "LogEntry": "No on in Sandy email team has claude access. It limits our ability to do things such as analyze swarm issues",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 0
-    },
-    {
       "id": "c288305e-9be2-4b38-a32b-51c98d2e0af4",
-      "Date": "2026-06-23",
+      "Date": "2026-06-22",
       "LogEntry": "Discuss of of new discussion thread for PR reviews . \n\nMayb put there first then include a link in requests elsewhere",
       "Assignee": "",
       "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
@@ -272,7 +209,7 @@
     },
     {
       "id": "c478695b-1eb5-48bf-839e-4ddc6f3af522",
-      "Date": "2026-06-23",
+      "Date": "2026-06-22",
       "LogEntry": "Top Golf Group Rates\nTues, 11-2, 25-30 people, team building activity\n\nAll golf bays together\nBuffet behind \n  - Fajita Fiesta tex/mex\n  - Natureal Bar, includes soft drinks, chips salsa queso\n  - Vegetarian",
       "Assignee": "",
       "Subject": "a3aa722d-c31d-4bdf-86c3-31effd3b1bc7",
@@ -281,7 +218,7 @@
     },
     {
       "id": "b080d79f-9417-4f84-8938-02000eb9e5a5",
-      "Date": "2026-06-23",
+      "Date": "2026-06-22",
       "LogEntry": "Fat Cats bowling, Bluffdale\n\n90 minutes\nLarge, 1 topping pizza\nUnlimited Soft Drinks\n1 hour arcade time play card\n\n$99 per lane",
       "Assignee": "",
       "Subject": "a3aa722d-c31d-4bdf-86c3-31effd3b1bc7",
@@ -299,7 +236,7 @@
     },
     {
       "id": "fbf45466-abd4-4dbb-aedf-10cd04c7bf22",
-      "Date": "2026-06-23",
+      "Date": "2026-06-22",
       "LogEntry": "Review 8x testing, discuss how we want to set our prod environment based on findings",
       "Assignee": "",
       "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
@@ -308,11 +245,11 @@
     },
     {
       "id": "4a4fb955-9ca2-4a72-adf4-f3344cb25bfd",
-      "Date": "2026-06-23",
+      "Date": "2026-06-22",
       "LogEntry": "I checked on prices for Top Golf and Fat Cats on Friday. It look like top golf provides a meal. I'm guessing they don't let you bring your own meal. If we want Top Golf it looks like we should go after lunch with no meal\n\n\n\nTop Golf:\n\n2 hours, 30 people - $700\n\nLeaderboard - $100\n\nFajita Lunch - $1050\n\nTotal - 2135.73\n\n\n\n\n\nFat Cats (Bowling)\n\n90 Minutes Bowling, \n\n(1) 60 Min Arcade Time Play Card, \n\nLarge Pizza, & \n\nDrinks for 6.\n\n1 lane\n\n\n\n$99\n\n\n\nSo if we get 9 lanes for 900 that gives us 9 large pizzas and 3 people per lane\n\n\n\n\n\nI'm open to other suggestions",
       "Assignee": "",
       "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 4
     },
     {
@@ -370,15 +307,6 @@
       "Order": 44
     },
     {
-      "id": "745167eb-b406-4370-836c-5f2f945afda9",
-      "Date": "2026-06-15",
-      "LogEntry": "Piyush Jethwa email - OpenAPM",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 47
-    },
-    {
       "id": "a9acc999-4812-4054-af8f-f893a9b19ac8",
       "Date": "2026-06-18",
       "LogEntry": "Ghosha email - ABN MRO -- do we think they are working now?",
@@ -397,15 +325,6 @@
       "Order": 49
     },
     {
-      "id": "777b3a8c-4b66-4c70-89ce-f26024eb5894",
-      "Date": "2026-06-15",
-      "LogEntry": "Review https://nice-ce-cxone-prod.atlassian.net/browse/DE-171625\n\nHow can we moinitor to find this faster. Fill in RCA",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 48
-    },
-    {
       "id": "589d4743-0187-4d3d-b9e6-3f479586fcd9",
       "Date": "2026-06-25",
       "LogEntry": "We need to monitor our nightly automation tests and fix them when they are broken\n\nReview https://nice-ce-cxone-prod.atlassian.net/browse/DE-171625\n\nHow can we moinitor to find this faster. Fill in RCA\n\nAdd everyone to email list of report, Have person on bug duty monitor and report if broken and debug",
@@ -415,58 +334,13 @@
       "Order": 0
     },
     {
-      "id": "34dea315-3de6-4ace-b544-cf074d2eada4",
-      "Date": "2026-06-15",
-      "LogEntry": "Carl Simpson email -- ABN AMRO -- IB deficiencies",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 1
-    },
-    {
-      "id": "7327548b-b970-44d1-ac7f-50709d2efa8c",
-      "Date": "2026-06-15",
-      "LogEntry": "Do we have anything to demo? Meeting moved to Tuesday",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": true,
-      "Order": 50
-    },
-    {
-      "id": "a37605d4-d4a7-4e2d-a8f1-c77e7acccb80",
-      "Date": "2026-06-15",
-      "LogEntry": "Wedding this afternoon at 3:00",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 51
-    },
-    {
-      "id": "89b4eea8-eceb-40dd-8a87-3b5c1eb96732",
-      "Date": "2026-06-15",
-      "LogEntry": "Carl Sampson\nABN AMRO email\n\nI do the following:\n\nReconfigure the working channel from Graph inbound nice_dta_1@nl.abnamro.com to SES, this simulates the outage.\nSend a few new email messages into my outlook mailbox to which the channel was subscribed (it still is, API calls will be send out to you but the channel is not configured to use it anymore). This results in messages not making it to NICE as digital cases as expected\nI restore the “outage” by configuring the channel back to its previous working state by selecting the subscribed nice_dta_1@nl.abnamro.com again. This worked 2 mins ago before doing step 1. But now it does not come back in a working state up until…..  I go the the “advanced settings” tab, select the parent object to which the subscription is a child, and just re-upload the same PFX file and settings we configured yesterday and then the channel starts working again. * puzzled *\n\nThis scenario we can’t document as a SOP for a PR situation.",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": true,
-      "Order": 54
-    },
-    {
       "id": "12facc1e-080b-4d77-8ab0-f4abd271af79",
       "Date": "2026-06-25",
       "LogEntry": "Max 50 msgs/min    Need 7200/min to throw 429",
       "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
       "Reviewed": false,
       "Order": 1
-    },
-    {
-      "id": "94ebcf4f-c6ae-4a30-ad74-76a3b6ec8230",
-      "Date": "2026-06-15",
-      "LogEntry": "Architecture ideas being promoted as high priority with no discussion even though they have no practical use\n\n7200 to send 429 response. Our current max is 200.\n\nBetter to spend our time blocking large amount of emails coming from the same address/bu\n\nBeing upset that Vikram used a FT from Infratools is a good example of this",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 55
     },
     {
       "id": "83acc081-ab78-4c12-b8f7-9969425ddde8",
@@ -496,13 +370,310 @@
       "Order": 58
     },
     {
-      "id": "194ca6eb-2241-4a05-affd-f4744c48e568",
-      "Date": "2026-06-18",
-      "LogEntry": "abcdefghijklmnop",
+      "id": "94354fbe-972d-4324-b6e1-4d65d028f873",
+      "Date": "2026-07-01",
+      "LogEntry": "Feature Toggle Library Review",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "71f1c591-7320-451d-9f8f-9ceef777da69",
+      "Date": "2026-07-01",
+      "LogEntry": "Testing of Kiley's Division No epic",
+      "Assignee": "Janhavi",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "afbb10ed-65d6-4648-bea1-967a390b6b47",
+      "Date": "2026-06-15",
+      "LogEntry": "DE-157304 -- Move items not complete to new epci in 26.4",
+      "Assignee": "Wick",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 56
+    },
+    {
+      "id": "17c1a6aa-b25d-4a98-b007-728a675cf6ec",
+      "Date": "2026-06-15",
+      "LogEntry": "DE-158266 - Chintan -- what does the team need to do here?\n\n(Serveless monitoring). We don't seem to have access to it",
+      "Assignee": "",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 57
+    },
+    {
+      "id": "c27779f2-9153-46e8-a9c3-b5cc3bcc36b0",
+      "Date": "2026-06-15",
+      "LogEntry": "DE-121800 - Ask Andy Hicks if this si needed",
+      "Assignee": "",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 58
+    },
+    {
+      "id": "4b35c064-7226-4aa8-ae52-4362540939a6",
+      "Date": "2026-06-15",
+      "LogEntry": "Chintan -- DE-157682 -- can you help us understand if the DFO team’s incontact-oem channels end point will accept a service token? If they won’t we will have to stay with the golden key rather than switch to a service token.",
+      "Assignee": "Chinton",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 59
+    },
+    {
+      "id": "40ee2b42-e4ee-4353-8979-7ad1874f2717",
+      "Date": "2026-06-24",
+      "LogEntry": "DWP vs ABM AMRO",
+      "Assignee": "",
+      "Subject": "63e10dc0-5156-4f06-ab38-7fe01b1e31cb",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "4642a88a-46c0-4ad6-8e0c-044aabcb2591",
+      "Date": "2026-06-24",
+      "LogEntry": "Need to let customers know we are beta testing",
+      "Assignee": "",
+      "Subject": "63e10dc0-5156-4f06-ab38-7fe01b1e31cb",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "4ad8ee91-5f98-44b2-869b-efe920aea0da",
+      "Date": "2026-06-23",
+      "LogEntry": "DE-71840 -- List of tests that can be cleaned up now that we have moved to Prague Devops deployment method",
+      "Assignee": "",
+      "Subject": "129f966c-b4ff-4850-b57e-1a3573214d25",
+      "Reviewed": false,
+      "Order": 61
+    },
+    {
+      "id": "09672c42-de94-4c8d-a191-202fc71c1458",
+      "Date": "2026-06-23",
+      "LogEntry": "Finished Division Number",
+      "Assignee": "",
+      "Subject": "129f966c-b4ff-4850-b57e-1a3573214d25",
+      "Reviewed": true,
+      "Order": 62
+    },
+    {
+      "id": "511cddae-7b43-49ab-811f-f53d9a0ba7ce",
+      "Date": "2026-06-23",
+      "LogEntry": "Automation - one failing pipeline, more than 2 weeks. Once manual count is reduced, I'll fix pipeline. Curently we hav eto run on local. Fix pipeline before next regression",
+      "Assignee": "",
+      "Subject": "129f966c-b4ff-4850-b57e-1a3573214d25",
+      "Reviewed": false,
+      "Order": 63
+    },
+    {
+      "id": "294d614d-88ff-491d-bab0-1fc2c1f6b847",
+      "Date": "2026-06-23",
+      "LogEntry": "Some test cases executed on UI. Currently running on local",
+      "Assignee": "",
+      "Subject": "129f966c-b4ff-4850-b57e-1a3573214d25",
+      "Reviewed": false,
+      "Order": 64
+    },
+    {
+      "id": "272a7183-f45b-408a-9682-d0d9118f17c0",
+      "Date": "2026-07-14",
+      "LogEntry": "Create an agent for automation",
+      "Assignee": "",
+      "Subject": "129f966c-b4ff-4850-b57e-1a3573214d25",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "b3459607-ddbe-40d1-845f-1609bcc2b090",
+      "Date": "2026-06-23",
+      "LogEntry": "Team: Ready for testing:\n\n1) Division number - Complete\n2) Marc - Cleanup of events being generated - smoke test\n3) ",
+      "Assignee": "",
+      "Subject": "129f966c-b4ff-4850-b57e-1a3573214d25",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "b1cd66e9-6a63-40ba-b3e7-20cbf562788f",
+      "Date": "2026-07-01",
+      "LogEntry": "THis is our old EKS system that is in the process of being removed. We will remove it when we deploy our other changes",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "d8ba4bf8-bbc4-48c1-896e-2447bb01d72e",
+      "Date": "2026-07-01",
+      "LogEntry": "This is a lambda. A lambda has no open inbound ports. We will set up the SG to block any IB trafiic, even though there are no avaialble ports. Because this is not a security concern, and because we want to reduce risk, we will be ready to deploy our changes immediatly after next regression testing period with our other changes. Currently, our regression testing is scheduled to end on July 30",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "b6833e9c-8ddf-4adc-a805-5ec8fb6a504a",
+      "Date": "2026-07-01",
+      "LogEntry": "This is behind a firewall. Multiple services communicate using this security group. We need to run extensive tests to assure our changes do not break the application. Will be ready to deploy our changes immediatly after next regression testing period. Currently, our regression testing is scheduled to end on July 30",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "b8b9f6a8-c391-429a-be6f-ab18dfe2e8bd",
+      "Date": "2026-06-24",
+      "LogEntry": "Why GDPR MSI and not I-Hub?  Dhirav asked. I wasn't sure\n\nAnswer: This is the ACD db side of I-HUB",
+      "Assignee": "Grant",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
       "Reviewed": false,
-      "Order": 50
+      "Order": 4
+    },
+    {
+      "id": "9c166660-d0d2-4203-b8b6-f8b7020b51e0",
+      "Date": "2026-06-24",
+      "LogEntry": "What is the plan for shared EKS deployment? Is Prague team going to do this? Petr? (get ansswer to Dhirave in next 1:1)\n\nProbably not prague taking over. We need to meet with Gregory to see what we can do. It is managed through their piepleine, but it is all manual. You can't automate the charts and worklosds. We might need tochane how we are codign so they can do automatic releases.\n\nMarting convo -- Marting didn't think they would take over because not automated\n\nCode changes needed. E.g Divianal work Kylee did -- if only lambda version went out, it would cause failures in shared EKS because she added a new field in protobuff objects. We need to be aware of changes we are doing or we need a way to update protobuff files that will impact shared EKS version. \n\nCan ew make everything \"Omit\" initiallay.  We also need a feature toggle inplace\n\nWe will discuss in Architect meeting",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 69
+    },
+    {
+      "id": "39d6f061-e78d-4528-b0e2-1f6cd3c1a199",
+      "Date": "2026-06-24",
+      "LogEntry": "Discuss how to have devops deploy our shared EKS stuff",
+      "Assignee": "",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 76
+    },
+    {
+      "id": "40e8a215-7911-4958-abad-c9fd0f50162f",
+      "Date": "2026-06-24",
+      "LogEntry": "What is the plan for shared EKS deployment? Is Prague team going to do this? Petr? (get ansswer to Dhirave in next 1:1)\n\nProbably not prague taking over. We need to meet with Gregory to see what we can do. It is managed through their piepleine, but it is all manual. You can't automate the charts and worklosds. We might need tochane how we are codign so they can do automatic releases.\n\nMarting convo -- Marting didn't think they would take over because not automated\n\nCode changes needed. E.g Divianal work Kylee did -- if only lambda version went out, it would cause failures in shared EKS because she added a new field in protobuff objects. We need to be aware of changes we are doing or we need a way to update protobuff files that will impact shared EKS version. \n\nCan ew make everything \"Omit\" initiallay.  We also need a feature toggle inplace\n\nWe will discuss in Architect meeting",
+      "Assignee": "",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 77
+    },
+    {
+      "id": "b7f82f8a-a49e-4bd8-b0cd-7ca385845d33",
+      "Date": "2026-06-24",
+      "LogEntry": "See \"OpenAPM Logging\" chat in teams on 6/24 -- \n\nEveryone For PROD regions please note to update this \"awslogs-region\": \"%REGION%\", if it was hardcoding it to us-west-2 wont work for PROD. Agent also updated with same",
+      "Assignee": "",
+      "Subject": "ad4bcb8a-a34c-4bdb-8a66-6993db7ca5bd",
+      "Reviewed": false,
+      "Order": 84
+    },
+    {
+      "id": "144bcf07-f549-4d47-92f2-bd9ee22d5a38",
+      "Date": "2026-06-24",
+      "LogEntry": "Have Jacob show docker file changes and pipeline changes review",
+      "Assignee": "Jacob",
+      "Subject": "0e1bbac4-4222-4f50-90a6-e9a396b8aaef",
+      "Reviewed": false,
+      "Order": 85
+    },
+    {
+      "id": "38b2d4ba-398c-4029-8570-e59872a6685e",
+      "Date": "2026-06-24",
+      "LogEntry": "Jacob: Show POC for app settings",
+      "Assignee": "",
+      "Subject": "0e1bbac4-4222-4f50-90a6-e9a396b8aaef",
+      "Reviewed": false,
+      "Order": 86
+    },
+    {
+      "id": "1e024a92-926d-4039-9663-021b03899258",
+      "Date": "2026-06-30",
+      "LogEntry": "Regarding error reporting -- we say \"contact support for details.\n\nNo specific messages are give",
+      "Assignee": "",
+      "Subject": "bd8e2181-26ab-4774-be56-577b42be4ae1",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "42e772ba-510f-4a64-ab5c-09f90406c4b4",
+      "Date": "2026-06-24",
+      "LogEntry": "Discus promotion for Sivaram -- does that seem likely\n\nHe will have been with us 4 years by eoy\n\n",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 87
+    },
+    {
+      "id": "4a20574f-ddf1-40e2-acef-d35934d219dc",
+      "Date": "2026-06-24",
+      "LogEntry": "Review xmatters alerting with team",
+      "Assignee": "",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 88
+    },
+    {
+      "id": "feba422b-029e-4527-95a0-6b5530a1bae6",
+      "Date": "2026-06-25",
+      "LogEntry": "DE-171202 (Teams Chat) -- do we know who in prague deveops is working on these?\n",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 59
+    },
+    {
+      "id": "1bcab6aa-87c3-42cd-8f4c-202238cbb967",
+      "Date": "2026-06-25",
+      "LogEntry": "Just curious, what did it look like before \"the last hour and a half\"\n\nEverything's been looking good on digidw in CA1 for the last hour and a half.  Nice work, Sivaram and Marc",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 60
+    },
+    {
+      "id": "332bebf4-e91c-4820-bc6e-b9943d87a3d5",
+      "Date": "2026-06-25",
+      "LogEntry": "Snowbird tomorrow",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 61
+    },
+    {
+      "id": "3461f03f-f377-4d3d-9c54-5a30764d433d",
+      "Date": "2026-06-29",
+      "LogEntry": "DF INtegrations Standup\n\nPlant to decommission VNext and move to Playwright",
+      "Assignee": "Janhavi",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 62
+    },
+    {
+      "id": "7a92e94b-690d-46d3-943d-4b152e85d223",
+      "Date": "2026-07-01",
+      "LogEntry": "Add nightly report to entire team",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 7
+    },
+    {
+      "id": "4e012f8e-6499-4c4c-8c18-233ed4fab7c8",
+      "Date": "2026-06-25",
+      "LogEntry": "Review tickets",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 63
+    },
+    {
+      "id": "21f8645c-e220-44dd-9ef4-f3dab8d2c8e2",
+      "Date": "2026-06-29",
+      "LogEntry": "I now have access to Kristen's email account\n\nSearch email for ticket# INC0560579",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 63
     }
   ]
 }

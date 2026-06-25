@@ -15,13 +15,13 @@
     {
       "id": "22edd72c-081e-4bfc-ac77-fc2ce1a57f4d",
       "SubjectName": "Grant 1:1",
-      "sortOrder": 16,
+      "sortOrder": 17,
       "logo": "OneToOneLogo.png"
     },
     {
       "id": "ebb4ddca-d301-4eb8-9b99-3cdf7ee4727d",
       "SubjectName": "Alyssa 1:1",
-      "sortOrder": 15,
+      "sortOrder": 16,
       "logo": "OneToOneLogo.png"
     },
     {
@@ -56,23 +56,23 @@
       "id": "16169f7f-8ac9-42dc-84ac-4e193272ca49",
       "SubjectName": "Sprint Demo - Email Team",
       "sortOrder": 3,
-      "logo": "Demo.png"
+      "logo": "DemoLogo_Email.png"
     },
     {
       "id": "7c05de19-6685-4a88-a113-ad663690db16",
       "SubjectName": "---------------- MY NOTES -------------",
-      "sortOrder": 28
+      "sortOrder": 29
     },
     {
       "id": "8153f89d-1d22-4f6b-ab78-504429556245",
       "SubjectName": "Jacob 1:1",
-      "sortOrder": 24
+      "sortOrder": 25
     },
     {
       "id": "54de8292-62c8-4080-96b5-a128f71ff862",
       "SubjectName": "Sprint Demo - Integrations Team",
       "sortOrder": 9,
-      "logo": "Demo.png"
+      "logo": "DemoLogo_Integrations.png"
     },
     {
       "id": "d919433d-00e7-4952-830d-e176c91500a4",
@@ -92,12 +92,12 @@
     {
       "id": "6fd606c6-e8d0-4f3e-a016-4b68125e713b",
       "SubjectName": "------------------DXI  1 : 1 ---------------",
-      "sortOrder": 14
+      "sortOrder": 15
     },
     {
       "id": "ad4bcb8a-a34c-4bdb-8a66-6993db7ca5bd",
       "SubjectName": "Vikram 1:1",
-      "sortOrder": 23,
+      "sortOrder": 24,
       "logo": "OneToOneLogo.png"
     },
     {
@@ -113,60 +113,65 @@
     {
       "id": "a3aa722d-c31d-4bdf-86c3-31effd3b1bc7",
       "SubjectName": "Team Party",
-      "sortOrder": 29
+      "sortOrder": 30
     },
     {
       "id": "f1ff6294-6329-4e39-ad98-50c42490c63e",
       "SubjectName": "Sivaram 1:1",
-      "sortOrder": 17,
+      "sortOrder": 18,
       "logo": "OneToOneLogo.png"
     },
     {
       "id": "206f163d-428c-4b01-81e2-672c586be457",
       "SubjectName": "Marc 1:1",
-      "sortOrder": 18,
+      "sortOrder": 19,
       "logo": "OneToOneLogo.png"
     },
     {
       "id": "d5b43151-1877-4064-aae1-ab58f0885a56",
       "SubjectName": "Kiley 1:1",
-      "sortOrder": 19,
+      "sortOrder": 20,
       "logo": "OneToOneLogo.png"
     },
     {
       "id": "3418a365-99a8-4790-9e9f-7008b9029966",
       "SubjectName": "------------------DXE  1 : 1 ---------------",
-      "sortOrder": 21
+      "sortOrder": 22
     },
     {
       "id": "cf58eee1-9dff-4ef8-a0a4-080b12bb8f02",
       "SubjectName": "John 1:1",
-      "sortOrder": 22,
+      "sortOrder": 23,
       "logo": "OneToOneLogo.png"
     },
     {
       "id": "1f68690a-0901-411d-b628-22b8d0ce7e30",
       "SubjectName": "Shefi 1:1",
-      "sortOrder": 25,
+      "sortOrder": 26,
       "logo": "OneToOneLogo.png"
     },
     {
       "id": "45415619-84e4-4175-b7c3-1d1159775779",
       "SubjectName": "Aarthi 1:1",
-      "sortOrder": 26,
+      "sortOrder": 27,
       "logo": "OneToOneLogo.png"
     },
     {
       "id": "dda4e650-5139-487f-8e87-1014ec192a35",
       "SubjectName": "Jared 1:1",
-      "sortOrder": 27,
+      "sortOrder": 28,
       "logo": "OneToOneLogo.png"
     },
     {
       "id": "129f966c-b4ff-4850-b57e-1a3573214d25",
       "SubjectName": "Janhavi 1:1",
-      "sortOrder": 20,
+      "sortOrder": 21,
       "logo": "OneToOneLogo.png"
+    },
+    {
+      "id": "63e10dc0-5156-4f06-ab38-7fe01b1e31cb",
+      "SubjectName": "TAM Mtgs",
+      "sortOrder": 14
     }
   ]
 }
