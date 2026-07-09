@@ -2096,6 +2096,366 @@
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": true,
       "Order": 65
+    },
+    {
+      "id": "b1cd66e9-6a63-40ba-b3e7-20cbf562788f",
+      "Date": "2026-06-25",
+      "LogEntry": "THis is our old EKS system that is in the process of being removed. We will remove it when we deploy our other changes",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "d8ba4bf8-bbc4-48c1-896e-2447bb01d72e",
+      "Date": "2026-06-25",
+      "LogEntry": "This is a lambda. A lambda has no open inbound ports. We will set up the SG to block any IB trafiic, even though there are no avaialble ports. Because this is not a security concern, and because we want to reduce risk, we will be ready to deploy our changes immediatly after next regression testing period with our other changes. Currently, our regression testing is scheduled to end on July 30",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "b6833e9c-8ddf-4adc-a805-5ec8fb6a504a",
+      "Date": "2026-06-25",
+      "LogEntry": "This is behind a firewall. Multiple services communicate using this security group. We need to run extensive tests to assure our changes do not break the application. Will be ready to deploy our changes immediatly after next regression testing period. Currently, our regression testing is scheduled to end on July 30",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "dea6884f-96be-4214-a06c-4811ef326176",
+      "Date": "2026-06-29",
+      "LogEntry": "Regarding security groups risk, items previous marked \"Acceptable' are now marked \"low.\" We still need to fix these eventually",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 66
+    },
+    {
+      "id": "ab72eecf-c29c-43d3-a1be-50d450cc3190",
+      "Date": "2026-06-29",
+      "LogEntry": "Sinch team is asking us to upgrade aws SDK\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-151037\n\nShould we tell them that they should do this?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 69
+    },
+    {
+      "id": "9a4d50f3-1cbb-480c-876c-322132016eeb",
+      "Date": "2026-06-29",
+      "LogEntry": "8x for both IB and OB, correct? Working in Blazemeter for both now?",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 71
+    },
+    {
+      "id": "424f2d7d-e6e3-4a6c-b475-53489c12eba2",
+      "Date": "2026-06-29",
+      "LogEntry": "NullReference Exception -- is that complete?",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 72
+    },
+    {
+      "id": "d3f5fc7f-8826-4248-87e3-a0864df0fc9a",
+      "Date": "2026-06-29",
+      "LogEntry": "Remove OpenSearch -- finish this week?",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 73
+    },
+    {
+      "id": "12f9619e-4ddb-460f-816e-771711a1c55c",
+      "Date": "2026-06-26",
+      "LogEntry": "Marty Boekeloo:\nDid the generic bounce-back plan deploy on the 23rd as noted below?  Any feedback on effect?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "41a872d6-76d7-4dba-b0cc-142c62ab90ee",
+      "Date": "2026-06-26",
+      "LogEntry": "Initial report on perf test?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 66
+    },
+    {
+      "id": "c5349cf7-ac22-4daf-aee3-b20781382dd8",
+      "Date": "2026-06-29",
+      "LogEntry": "Grant's birthday yesterday (Sunday)(",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 65
+    },
+    {
+      "id": "a002b9c6-2b1b-4470-a6e4-b53c9701506c",
+      "Date": "2026-06-29",
+      "LogEntry": "Regarding security groups risk, items previous marked \"Acceptable' are now marked \"low.\" We still need to fix these eventually",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 67
+    },
+    {
+      "id": "71f1c591-7320-451d-9f8f-9ceef777da69",
+      "Date": "2026-06-25",
+      "LogEntry": "Testing of Kiley's Division No epic",
+      "Assignee": "Janhavi",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "feba422b-029e-4527-95a0-6b5530a1bae6",
+      "Date": "2026-06-25",
+      "LogEntry": "DE-171202 (Teams Chat) -- do we know who in prague deveops is working on these?\n",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 59
+    },
+    {
+      "id": "1bcab6aa-87c3-42cd-8f4c-202238cbb967",
+      "Date": "2026-06-25",
+      "LogEntry": "Just curious, what did it look like before \"the last hour and a half\"\n\nEverything's been looking good on digidw in CA1 for the last hour and a half.  Nice work, Sivaram and Marc",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 60
+    },
+    {
+      "id": "332bebf4-e91c-4820-bc6e-b9943d87a3d5",
+      "Date": "2026-06-25",
+      "LogEntry": "Snowbird tomorrow",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 61
+    },
+    {
+      "id": "4e012f8e-6499-4c4c-8c18-233ed4fab7c8",
+      "Date": "2026-06-25",
+      "LogEntry": "Review tickets",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 63
+    },
+    {
+      "id": "3578e8e7-ac9e-4c29-aed0-eb12ab078d04",
+      "Date": "2026-06-30",
+      "LogEntry": "Claude TIckets: What is this? Spreadsheet from Dhirav\nhttps://niceonline-my.sharepoint.com/:x:/r/personal/dhirav_mehta_nice_com/_layouts/15/Doc.aspx?sourcedoc=%7B42054E01-AC94-4084-A607-C5B3DCB66E9B%7D&file=Claude_Tickets_Dhirav.xlsx&fromShare=true&action=default&mobileredirect=true",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 64
+    },
+    {
+      "id": "c45a2a85-d3d5-4861-90f9-ccf73bdc0952",
+      "Date": "2026-06-30",
+      "LogEntry": "Sher Martinez request to have Vikram's error query retrieve contact id",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 70
+    },
+    {
+      "id": "3d13975b-86cc-4117-8038-46ca986e368a",
+      "Date": "2026-06-30",
+      "LogEntry": "Do we have any \"No Action\" items for security group changes (are any of the \"low\" items actually \"No action needed?\"  DevOps wants to know so they can report these as complete to DWP.",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "39d28fda-65d4-4f79-828b-1f49ec30db83",
+      "Date": "2026-06-30",
+      "LogEntry": "Review answer to Ghosha - bounce back",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 72
+    },
+    {
+      "id": "e504aca9-eb49-4833-95a7-60ea2daf1817",
+      "Date": "2026-06-30",
+      "LogEntry": "GDPR Deployment of DE-152981 - do we have an opinion as to what th esource of truth should be (config files setup in Github? Something else?)",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 73
+    },
+    {
+      "id": "7f116001-0157-4724-a628-816a69e69cb7",
+      "Date": "2026-06-30",
+      "LogEntry": "How difficult to show what customers will see when an email is bounced?\n\nKen Daryl wants to show TBAYTEL.\n\nCan we tell if we have bounced any TBAYTEL emails?\n",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 79
+    },
+    {
+      "id": "e6b9019b-ff00-4abf-825a-dc49ef012552",
+      "Date": "2026-06-15",
+      "LogEntry": "Agenda:\nSagar: Runbook\nMahima: Code Review - Send Emaiol API, \nMahima: Valkey Repo\nRupali: Dot.Net v6 to 10 upgrade \nChintan: Troubleshoot skill",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": true,
+      "Order": 21
+    },
+    {
+      "id": "a9acc999-4812-4054-af8f-f893a9b19ac8",
+      "Date": "2026-06-18",
+      "LogEntry": "Ghosha email - ABN MRO -- do we think they are working now?",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": true,
+      "Order": 48
+    },
+    {
+      "id": "589d4743-0187-4d3d-b9e6-3f479586fcd9",
+      "Date": "2026-06-25",
+      "LogEntry": "We need to monitor our nightly automation tests and fix them when they are broken\n\nReview https://nice-ce-cxone-prod.atlassian.net/browse/DE-171625\n\nHow can we moinitor to find this faster. Fill in RCA\n\nAdd everyone to email list of report, Have person on bug duty monitor and report if broken and debug",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "83acc081-ab78-4c12-b8f7-9969425ddde8",
+      "Date": "2026-06-25",
+      "LogEntry": "We have our own repo for blazemeter",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": true,
+      "Order": 56
+    },
+    {
+      "id": "f23dd271-5712-404f-898c-ec6c7a9c157e",
+      "Date": "2026-06-30",
+      "LogEntry": "Ask Chintan to create write-up for the one security group we are asked to cover.",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 71
+    },
+    {
+      "id": "82802157-8431-41a3-b7f0-7141673f10a4",
+      "Date": "2026-06-30",
+      "LogEntry": "GDPR Deployment of DE-152981 - do we have an opinion as to what th esource of truth should be (config files setup in Github? Something else?)",
+      "Assignee": "Grant",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 74
+    },
+    {
+      "id": "487256fb-4c81-4388-b2b8-4002238cd0a1",
+      "Date": "2026-07-01",
+      "LogEntry": "John and Jake Daniels -- do we want to remove items for security group win?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 75
+    },
+    {
+      "id": "f10e9930-3075-453e-ab2e-598037c1e6ce",
+      "Date": "2026-07-01",
+      "LogEntry": "EMail reporting tokenerror\nsystem@sent-from.nicecxone-dev.com\nAn error occurred while attempting to refresh the OAuth token.",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "fda4b2f6-2f15-4b21-bed6-122377ed75a1",
+      "Date": "2026-07-01",
+      "LogEntry": "Opensearch\n1. Delete snapshot, then subscription, then us domain.  Are you doing this in prod?",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 76
+    },
+    {
+      "id": "97132896-e6c7-467f-a073-53bc2b6323b6",
+      "Date": "2026-07-01",
+      "LogEntry": "Can we close the 8x ticket?",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 77
+    },
+    {
+      "id": "79fa364f-e461-412f-8ec6-85a5ea21076d",
+      "Date": "2026-07-01",
+      "LogEntry": "Text from Ali -- display name not comeing through -- how do we populate the display name?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 78
+    },
+    {
+      "id": "c2a8785b-5f3a-4b06-a4a8-4ceaa5e1896a",
+      "Date": "2026-07-07",
+      "LogEntry": "If you add a toggle in infratools -- which we should not longer be doing -- be sure to add a release date, even if it is in the future, assuming it will let you.  We are showing up in escalated FT reports because we have FTs with no release date",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "d7c5473c-bd3d-43ff-abf5-39307898d10d",
+      "Date": "2026-07-07",
+      "LogEntry": "Jared Schmidt Email: Meet Relay — instant answers for EKS, Spacelift, and GitHub, right in Teams",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 68
+    },
+    {
+      "id": "f778fa02-5827-442c-930a-ec24002b8c95",
+      "Date": "2026-07-07",
+      "LogEntry": "Yesterday you mentioned a bug in email tools in dev. Did we get that cleared up?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 73
+    },
+    {
+      "id": "1e04d601-f2a1-4bb0-8862-e92654223cc1",
+      "Date": "2026-07-07",
+      "LogEntry": "See email from Harshad Apshankar: \nRe: ACTION REQUIRED: Merging TFS RC Commits to DEVELOP\n\n2 items need to be mereged from RC to develop branch",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 74
+    },
+    {
+      "id": "8a242d1f-a045-46c9-a84b-393292daa308",
+      "Date": "2026-07-07",
+      "LogEntry": "What was the meeting on Saturday with Microsoft about?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 76
+    },
+    {
+      "id": "61c8f673-6bbf-4801-b703-3a70f50bc662",
+      "Date": "2026-07-07",
+      "LogEntry": "Whati is the gerber swarm issue",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 84
     }
   ]
 }
