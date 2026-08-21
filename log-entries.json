@@ -91,15 +91,6 @@
       "Order": 9
     },
     {
-      "id": "ef47fbc5-c061-4a11-bea8-7cad654cc0c8",
-      "Date": "2026-06-15",
-      "LogEntry": "Discuss logs that are in both Open APM (EKS) and Prague (Labmdas)",
-      "Assignee": "",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 23
-    },
-    {
       "id": "d04a8979-1f9a-4c49-af12-a1b81896ef21",
       "Date": "2026-06-15",
       "LogEntry": "set up meeting with Wendy to discuss regression",
@@ -172,17 +163,8 @@
       "Order": 0
     },
     {
-      "id": "c288305e-9be2-4b38-a32b-51c98d2e0af4",
-      "Date": "2026-06-22",
-      "LogEntry": "Discuss of of new discussion thread for PR reviews . \n\nMayb put there first then include a link in requests elsewhere",
-      "Assignee": "",
-      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
-      "Reviewed": false,
-      "Order": 0
-    },
-    {
       "id": "c478695b-1eb5-48bf-839e-4ddc6f3af522",
-      "Date": "2026-06-22",
+      "Date": "2026-06-23",
       "LogEntry": "Top Golf Group Rates\nTues, 11-2, 25-30 people, team building activity\n\nAll golf bays together\nBuffet behind \n  - Fajita Fiesta tex/mex\n  - Natureal Bar, includes soft drinks, chips salsa queso\n  - Vegetarian",
       "Assignee": "",
       "Subject": "a3aa722d-c31d-4bdf-86c3-31effd3b1bc7",
@@ -191,7 +173,7 @@
     },
     {
       "id": "b080d79f-9417-4f84-8938-02000eb9e5a5",
-      "Date": "2026-06-22",
+      "Date": "2026-06-23",
       "LogEntry": "Fat Cats bowling, Bluffdale\n\n90 minutes\nLarge, 1 topping pizza\nUnlimited Soft Drinks\n1 hour arcade time play card\n\n$99 per lane",
       "Assignee": "",
       "Subject": "a3aa722d-c31d-4bdf-86c3-31effd3b1bc7",
@@ -208,17 +190,8 @@
       "Order": 31
     },
     {
-      "id": "fbf45466-abd4-4dbb-aedf-10cd04c7bf22",
-      "Date": "2026-06-22",
-      "LogEntry": "Review 8x testing, discuss how we want to set our prod environment based on findings",
-      "Assignee": "",
-      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
-      "Reviewed": false,
-      "Order": 3
-    },
-    {
       "id": "4a4fb955-9ca2-4a72-adf4-f3344cb25bfd",
-      "Date": "2026-06-22",
+      "Date": "2026-06-23",
       "LogEntry": "I checked on prices for Top Golf and Fat Cats on Friday. It look like top golf provides a meal. I'm guessing they don't let you bring your own meal. If we want Top Golf it looks like we should go after lunch with no meal\n\n\n\nTop Golf:\n\n2 hours, 30 people - $700\n\nLeaderboard - $100\n\nFajita Lunch - $1050\n\nTotal - 2135.73\n\n\n\n\n\nFat Cats (Bowling)\n\n90 Minutes Bowling, \n\n(1) 60 Min Arcade Time Play Card, \n\nLarge Pizza, & \n\nDrinks for 6.\n\n1 lane\n\n\n\n$99\n\n\n\nSo if we get 9 lanes for 900 that gives us 9 large pizzas and 3 people per lane\n\n\n\n\n\nI'm open to other suggestions",
       "Assignee": "",
       "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
@@ -245,8 +218,8 @@
     },
     {
       "id": "45962a9b-924c-4eb2-9af6-2f22a891ec06",
-      "Date": "2026-07-08",
-      "LogEntry": "Don Aguado -- see email -- let him know when Jared is finished with tool to resend email\n\n",
+      "Date": "2026-08-24",
+      "LogEntry": "Don Aguado -- see email -- let him know when Jared is finished with tool to resend email\n\nWhat region?",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
@@ -262,15 +235,6 @@
       "Order": 41
     },
     {
-      "id": "baadc88c-c7ba-469e-87f4-04be6e81a90d",
-      "Date": "2026-06-18",
-      "LogEntry": "Why does everyone think they can do whatever they want?",
-      "Assignee": "",
-      "Subject": "206f163d-428c-4b01-81e2-672c586be457",
-      "Reviewed": false,
-      "Order": 42
-    },
-    {
       "id": "0bd8f12d-b2fb-40b1-bcd6-d0ea7f45c6ec",
       "Date": "2026-07-08",
       "LogEntry": "Pipelines when they create packages and how versioning works",
@@ -281,21 +245,12 @@
     },
     {
       "id": "c226072b-05e2-49aa-ae38-55982884737c",
-      "Date": "2026-07-08",
+      "Date": "2026-07-16",
       "LogEntry": "Make a ticket to provide instructions on link open  apm logs in our dashboard?",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
       "Order": 49
-    },
-    {
-      "id": "12facc1e-080b-4d77-8ab0-f4abd271af79",
-      "Date": "2026-07-08",
-      "LogEntry": "Max 50 msgs/min    Need 7200/min to throw 429",
-      "Assignee": "",
-      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
-      "Reviewed": false,
-      "Order": 1
     },
     {
       "id": "c3ef324f-60d9-4447-930c-fb312025736e",
@@ -314,51 +269,6 @@
       "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
       "Reviewed": false,
       "Order": 58
-    },
-    {
-      "id": "94354fbe-972d-4324-b6e1-4d65d028f873",
-      "Date": "2026-06-30",
-      "LogEntry": "Feature Toggle Library Review",
-      "Assignee": "",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 1
-    },
-    {
-      "id": "afbb10ed-65d6-4648-bea1-967a390b6b47",
-      "Date": "2026-06-15",
-      "LogEntry": "DE-157304 -- Move items not complete to new epci in 26.4",
-      "Assignee": "Wick",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 56
-    },
-    {
-      "id": "17c1a6aa-b25d-4a98-b007-728a675cf6ec",
-      "Date": "2026-06-15",
-      "LogEntry": "DE-158266 - Chintan -- what does the team need to do here?\n\n(Serveless monitoring). We don't seem to have access to it",
-      "Assignee": "",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 57
-    },
-    {
-      "id": "c27779f2-9153-46e8-a9c3-b5cc3bcc36b0",
-      "Date": "2026-06-15",
-      "LogEntry": "DE-121800 - Ask Andy Hicks if this si needed",
-      "Assignee": "",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 58
-    },
-    {
-      "id": "4b35c064-7226-4aa8-ae52-4362540939a6",
-      "Date": "2026-06-15",
-      "LogEntry": "Chintan -- DE-157682 -- can you help us understand if the DFO team’s incontact-oem channels end point will accept a service token? If they won’t we will have to stay with the golden key rather than switch to a service token.",
-      "Assignee": "Chinton",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 59
     },
     {
       "id": "40ee2b42-e4ee-4353-8979-7ad1874f2717",
@@ -451,24 +361,6 @@
       "Order": 69
     },
     {
-      "id": "39d6f061-e78d-4528-b0e2-1f6cd3c1a199",
-      "Date": "2026-06-24",
-      "LogEntry": "Discuss how to have devops deploy our shared EKS stuff",
-      "Assignee": "",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 76
-    },
-    {
-      "id": "40e8a215-7911-4958-abad-c9fd0f50162f",
-      "Date": "2026-06-24",
-      "LogEntry": "What is the plan for shared EKS deployment? Is Prague team going to do this? Petr? (get ansswer to Dhirave in next 1:1)\n\nProbably not prague taking over. We need to meet with Gregory to see what we can do. It is managed through their piepleine, but it is all manual. You can't automate the charts and worklosds. We might need tochane how we are codign so they can do automatic releases.\n\nMarting convo -- Marting didn't think they would take over because not automated\n\nCode changes needed. E.g Divianal work Kylee did -- if only lambda version went out, it would cause failures in shared EKS because she added a new field in protobuff objects. We need to be aware of changes we are doing or we need a way to update protobuff files that will impact shared EKS version. \n\nCan ew make everything \"Omit\" initiallay.  We also need a feature toggle inplace\n\nWe will discuss in Architect meeting",
-      "Assignee": "",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 77
-    },
-    {
       "id": "b7f82f8a-a49e-4bd8-b0cd-7ca385845d33",
       "Date": "2026-06-24",
       "LogEntry": "See \"OpenAPM Logging\" chat in teams on 6/24 -- \n\nEveryone For PROD regions please note to update this \"awslogs-region\": \"%REGION%\", if it was hardcoding it to us-west-2 wont work for PROD. Agent also updated with same",
@@ -496,15 +388,6 @@
       "Order": 86
     },
     {
-      "id": "1e024a92-926d-4039-9663-021b03899258",
-      "Date": "2026-06-30",
-      "LogEntry": "Regarding error reporting -- we say \"contact support for details.\n\nNo specific messages are give",
-      "Assignee": "",
-      "Subject": "bd8e2181-26ab-4774-be56-577b42be4ae1",
-      "Reviewed": false,
-      "Order": 0
-    },
-    {
       "id": "42e772ba-510f-4a64-ab5c-09f90406c4b4",
       "Date": "2026-06-24",
       "LogEntry": "Discus promotion for Sivaram -- does that seem likely\n\nHe will have been with us 4 years by eoy\n\n",
@@ -512,15 +395,6 @@
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
       "Reviewed": false,
       "Order": 87
-    },
-    {
-      "id": "4a20574f-ddf1-40e2-acef-d35934d219dc",
-      "Date": "2026-06-24",
-      "LogEntry": "Review xmatters alerting with team",
-      "Assignee": "",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 88
     },
     {
       "id": "3461f03f-f377-4d3d-9c54-5a30764d433d",
@@ -539,51 +413,6 @@
       "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
       "Reviewed": false,
       "Order": 7
-    },
-    {
-      "id": "21f8645c-e220-44dd-9ef4-f3dab8d2c8e2",
-      "Date": "2026-07-07",
-      "LogEntry": "I now have access to Kristen's email account\n\nSearch email for ticket# INC0560579\n\nGo to outlook.office.com, select my icon, select \"open another mailbox\"\n\nKristin.Barlow-Restored@nice.com\n\nGithub \"People Lookup\" \nhttps://github.com/orgs/inContact/people?query=Kristin",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 63
-    },
-    {
-      "id": "ab952363-020e-42f5-a9e2-5e712c3f9e25",
-      "Date": "2026-06-29",
-      "LogEntry": "I will be out next Monday",
-      "Assignee": "",
-      "Subject": "bd8e2181-26ab-4774-be56-577b42be4ae1",
-      "Reviewed": false,
-      "Order": 68
-    },
-    {
-      "id": "ae8b8176-1818-4f9f-908b-1be89e45abb3",
-      "Date": "2026-06-30",
-      "LogEntry": "UK Sov questions for arch meeting?",
-      "Assignee": "",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 76
-    },
-    {
-      "id": "03a6ee78-54e3-463b-a555-fef9d4990f3b",
-      "Date": "2026-06-30",
-      "LogEntry": "https://teams.microsoft.com/l/message/19:meeting_ZGYyMmQ1ZjktMTZjZS00NjE4LWE4MGMtZTk1MWI3NTViNWIy@thread.v2/1782825581862?context=%7B%22contextType%22%3A%22chat%22%7D\n\nDE-162362 -- From DFI side I think there were 3:\nOnAssignment\nOnUnAssignment\nOnRelease\n ",
-      "Assignee": "",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 77
-    },
-    {
-      "id": "b8fc9b8b-400f-48b1-9061-8bd0c4d049b7",
-      "Date": "2026-06-30",
-      "LogEntry": "Gosha / Ken Daryl Discussion\nTesting bouncre back",
-      "Assignee": "",
-      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
-      "Reviewed": false,
-      "Order": 78
     },
     {
       "id": "01be4da5-c5c5-4006-b1d6-5e3d7398c149",
@@ -622,15 +451,6 @@
       "Order": 83
     },
     {
-      "id": "8d792903-671d-4cbd-94c6-385560f63f5c",
-      "Date": "2026-07-07",
-      "LogEntry": "DE-171559 -- status? -- Overly Permissive cicd-iam-service-roles",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 64
-    },
-    {
       "id": "378bed06-4419-42c3-b78e-8a976771f740",
       "Date": "2026-07-07",
       "LogEntry": "We are getting a lot of alerts. Do we need to adjust thresholds?",
@@ -658,105 +478,6 @@
       "Order": 1
     },
     {
-      "id": "042d7df0-b250-4d4f-9738-19c9d116bbf9",
-      "Date": "2026-07-08",
-      "LogEntry": "Review DX Claude and how we integrate with dxi-claude (folder structures, etc)",
-      "Assignee": "Chinton",
-      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 0
-    },
-    {
-      "id": "f094ff36-f82e-4d06-aace-40238b764272",
-      "Date": "2026-07-02",
-      "LogEntry": "GDPR status",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 0
-    },
-    {
-      "id": "adf14e25-87a2-44bd-8d4b-86812390185d",
-      "Date": "2026-07-02",
-      "LogEntry": "Kristin Barlow -- follow up",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 1
-    },
-    {
-      "id": "6060cfef-df90-4c04-8691-703e82d93346",
-      "Date": "2026-07-02",
-      "LogEntry": "Unplanned Interuptions -- move them",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 2
-    },
-    {
-      "id": "77335687-1b51-488c-9018-7252c1f17abd",
-      "Date": "2026-07-02",
-      "LogEntry": "GDPR FOllow up",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 3
-    },
-    {
-      "id": "b7c68d52-4494-45e4-a367-68a1af1d8603",
-      "Date": "2026-07-07",
-      "LogEntry": "Review Items on Digi Dashboard\nhttps://mon-na1.nicecxone-staging.com/dashboards/f/bfo9nmnm20dtsa/digi-dashboards\n\nokta3 login - p.... !o...3",
-      "Assignee": "Sivaram",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 67
-    },
-    {
-      "id": "1f879dd5-a4f0-4ae3-be09-30b4e5e47b23",
-      "Date": "2026-07-07",
-      "LogEntry": "Jared Schmidt Email: Meet Relay — instant answers for EKS, Spacelift, and GitHub, right in Teams",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 69
-    },
-    {
-      "id": "5e6298fb-d943-46b0-a963-e1eb47ff1990",
-      "Date": "2026-07-07",
-      "LogEntry": "Do we have anything to demo on Wednesday? If not, cancel demo meeting. If so, cancel standup meeting",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 70
-    },
-    {
-      "id": "93c7ebe1-2ad2-479f-819f-681378df47d7",
-      "Date": "2026-07-08",
-      "LogEntry": "Sparkathon is next Wed and Thurs",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": true,
-      "Order": 71
-    },
-    {
-      "id": "9a85f065-b12b-46e4-a679-587adc598c9a",
-      "Date": "2026-07-07",
-      "LogEntry": "Sparkathon is next Wed and Thursday",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 72
-    },
-    {
-      "id": "e64f3160-4692-4d97-9241-f907ec753cb4",
-      "Date": "2026-07-07",
-      "LogEntry": "See email from Harshad Apshankar: \nRe: ACTION REQUIRED: Merging TFS RC Commits to DEVELOP\n\n2 items need to be mereged from RC to develop branch",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 75
-    },
-    {
       "id": "5202be22-a335-4283-9650-9f994db70a16",
       "Date": "2026-07-07",
       "LogEntry": "Whi is committed to entire message thread",
@@ -771,7 +492,7 @@
       "LogEntry": "Do we have specific bounce back messages determeind?",
       "Assignee": "",
       "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 78
     },
     {
@@ -780,7 +501,7 @@
       "LogEntry": "Dynamic email identity -- is that our work?",
       "Assignee": "",
       "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 79
     },
     {
@@ -829,132 +550,6 @@
       "Order": 85
     },
     {
-      "id": "c9f98c7d-2889-4e08-a7ea-45278624dae6",
-      "Date": "2026-07-08",
-      "LogEntry": "Review of testing process, start to finish",
-      "Assignee": "Janhavi",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 59
-    },
-    {
-      "id": "c235e024-eddd-4b75-8563-3efad8756108",
-      "Date": "2026-07-08",
-      "LogEntry": "EMAIL: FW: VNext to Playwright - migration of automation framework \n\nFOr awareness",
-      "Assignee": "Janhavi",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 60
-    },
-    {
-      "id": "db66ee85-85b0-4664-abea-214cc10d4740",
-      "Date": "2026-07-08",
-      "LogEntry": "EMAIL: Quality Agents as part of SDLC",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 61
-    },
-    {
-      "id": "aed94218-626c-4cc5-9022-c9902c41c939",
-      "Date": "2026-07-08",
-      "LogEntry": "Bug: DE-173003\nUnable to update the Notification Address for a custom inbound SMTP configuration is the Email Support Tools.",
-      "Assignee": "Shefi",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 62
-    },
-    {
-      "id": "c4c9edf0-69c6-47ae-9f7e-6bc7221ffe0e",
-      "Date": "2026-07-08",
-      "LogEntry": "Should we set up a meeting to discuss how we handle shared EKS? Do we have a preference?  We can contact CNC team.\n\nLambdas, going forward, deployed by Prague.\n\nRaise PR. DevOps Reviews. Puts it in sprint for deployment",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 63
-    },
-    {
-      "id": "a8a1b51a-db6b-4dd7-b4e6-da7d35bec023",
-      "Date": "2026-07-08",
-      "LogEntry": "Submit a reques tfor a claude license, give me the rit number so I can get it to Dhirav and he can give it to patrick. By the endo fo teh week",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": true,
-      "Order": 64
-    },
-    {
-      "id": "71293d3a-a4be-42d5-b8c8-ae8b6aa453be",
-      "Date": "2026-07-08",
-      "LogEntry": "Two more tickets to close:\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-161829?",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": true,
-      "Order": 65
-    },
-    {
-      "id": "1b0f5ff5-944c-421e-beac-0aad8664eb37",
-      "Date": "2026-07-08",
-      "LogEntry": "Are we finished with Osaka?\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-161829?",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 66
-    },
-    {
-      "id": "41cd8d2b-de75-4a0a-b79b-5cc99647ac70",
-      "Date": "2026-07-08",
-      "LogEntry": "Put in release date or move out of infratools",
-      "Assignee": "Vikram",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": true,
-      "Order": 67
-    },
-    {
-      "id": "62a1230c-3d82-4212-a2a8-b0a6576d50ec",
-      "Date": "2026-07-08",
-      "LogEntry": "https://nice-ce-cxone-prod.atlassian.net/browse/DE-173003\n5. Link to R&D swarm discussion:\nN/A John McKenna requested this bug be opened directly.\n\nThis seems to have created a CFB that was not needed",
-      "Assignee": "John",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": true,
-      "Order": 68
-    },
-    {
-      "id": "ae89c9b5-542f-42b9-907a-5d000e0c5fa9",
-      "Date": "2026-07-08",
-      "LogEntry": "See chat -- can we remove old eks?",
-      "Assignee": "Jacob",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": true,
-      "Order": 69
-    },
-    {
-      "id": "9f9f1e0d-f52c-4f40-bcda-1c2a5316175f",
-      "Date": "2026-07-09",
-      "LogEntry": "Grow Pro Self Assesment due July 15",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": true,
-      "Order": 2
-    },
-    {
-      "id": "14758107-23f0-447d-9e3d-c0b6c9203de0",
-      "Date": "2026-07-09",
-      "LogEntry": "Grow Pro Self Assesment due July 15",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 3
-    },
-    {
-      "id": "339bc773-e449-498f-9616-513181a99094",
-      "Date": "2026-07-09",
-      "LogEntry": "Vacation Time:\nGrant: 4.5 d\nKiley: 3d sept, 0.5\nJanhavi: 3d Sept\nMarc: 6d\n",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 4
-    },
-    {
       "id": "1df7c043-c559-42f6-b5eb-3d34670c9676",
       "Date": "2026-07-09",
       "LogEntry": "Vacation Time\n\nJacob 10d\nShefi 5d July / 5d Aug\nJohn 5d July",
@@ -962,24 +557,6 @@
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": true,
       "Order": 5
-    },
-    {
-      "id": "b39117f3-a063-4784-a4af-0b7660d38e72",
-      "Date": "2026-07-09",
-      "LogEntry": "QA / Test assignments",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 6
-    },
-    {
-      "id": "673d13c3-f35a-4f93-a5ce-6aee470526ab",
-      "Date": "2026-07-09",
-      "LogEntry": "Sabir Alvi questions -- need to finish lambdas by eom -- is devops team doing all of these?",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 7
     },
     {
       "id": "52ba5dce-291c-4773-a028-2e0081e00a1c",
@@ -996,17 +573,8 @@
       "LogEntry": "Move 3. DE-158142- OpenAPM Migration - EKS Logs Verification, EKS Pod Alerts Creation, Migration of old Grafana Dashboards\n\nTo 27.1",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 9
-    },
-    {
-      "id": "1a1c93de-e639-4bd2-9a7c-c6e38e2f3b0f",
-      "Date": "2026-07-09",
-      "LogEntry": "How many story points should we set aside for 26.4 for the remaining Aikido work that was moved to 26.4?\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-170508",
-      "Assignee": "Grant",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": true,
-      "Order": 10
+      "Order": 9
     },
     {
       "id": "5e2d5b5f-a801-49ec-8f01-e5f3297f291e",
@@ -1023,7 +591,7 @@
       "LogEntry": "If we haven't heard differently, let's change DE-173003 from a bug to an epic and assign it to 26.4",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 12
     },
     {
@@ -1063,24 +631,6 @@
       "Order": 16
     },
     {
-      "id": "e0d830d4-2ddb-40d7-922f-8d61aa279eda",
-      "Date": "2026-07-09",
-      "LogEntry": "I have the day off tomorrow",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 17
-    },
-    {
-      "id": "03a6a62b-4e2c-4845-a63b-4824856fe46e",
-      "Date": "2026-07-09",
-      "LogEntry": "Form to get CLaude for Janhavi",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 18
-    },
-    {
       "id": "f2d0fed8-8129-4df5-b8f3-5111674efee1",
       "Date": "2026-07-09",
       "LogEntry": "James Lance question",
@@ -1090,49 +640,922 @@
       "Order": 19
     },
     {
-      "id": "dd3a4eaf-5447-4d50-8e06-6fff6d6e2b94",
+      "id": "12c241db-ccc8-46d1-99e8-71c40812fcc9",
       "Date": "2026-07-09",
-      "LogEntry": "New region deployment. Is FIRE team adding todocumentation as they come across questions/issues",
-      "Assignee": "Alyssa",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "LogEntry": "WHen adding a feature, update the new region deployment process\n\nAutomate the app settings so they are part of the deployment process. i.e., put app settings in the deploy process. \n\nApp settings are in secrets. How does the other devops team handle this?",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 23
+    },
+    {
+      "id": "7a08379e-87be-46ec-b868-cd75024d899c",
+      "Date": "2026-07-22",
+      "LogEntry": "Adding settings to deployment process. How do we do this with new DevOps process",
+      "Assignee": "Jacob",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": true,
-      "Order": 20
+      "Order": 0
     },
     {
-      "id": "cf043c42-eb54-44d0-8eb8-c8923811e392",
-      "Date": "2026-07-09",
-      "LogEntry": "Assignment for Kiley",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "id": "780a6b63-3196-4abd-b64c-bb01a2cc5dc3",
+      "Date": "2026-07-16",
+      "LogEntry": "Sabiir Albi direct teams discussion.\n\nSecrets in environment variables -- status update",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
-      "Order": 21
+      "Order": 50
     },
     {
-      "id": "0c44104f-f6d4-4f50-9eba-6e0d4fdb77a4",
-      "Date": "2026-07-09",
-      "LogEntry": "Review 26.3/26.4\n",
+      "id": "01eae66c-8348-4282-9926-746b013ce453",
+      "Date": "2026-07-16",
+      "LogEntry": "I have the day off tomorrow",
       "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 55
+    },
+    {
+      "id": "78e173d4-0d31-4d3a-88b2-fce43d5dd2a0",
+      "Date": "2026-07-16",
+      "LogEntry": "Last day of self assessment extended to Monday",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 56
+    },
+    {
+      "id": "b5e75cd1-f1dc-4d45-97ae-3099d270bef5",
+      "Date": "2026-07-16",
+      "LogEntry": "An error occurred while attempting to refresh the OAuth token.  -- 3:00 am to 3:40 am>\n\nProvider: Microsoft\nClientId: 4bdc8a22-42f5-4b9e-84b2-da4cf0d5494d",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 58
+    },
+    {
+      "id": "a4410ed7-7654-4754-b385-925909775fa3",
+      "Date": "2026-07-16",
+      "LogEntry": "We need a resilience testing specialist -- Ritesh Kothari email",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
-      "Order": 22
+      "Order": 59
     },
     {
-      "id": "e1f11e78-27ea-4d38-a324-2e39a3933506",
-      "Date": "2026-07-13",
-      "LogEntry": "DE-109701 - Expand special character support -- GHOSHA, can we move this to 27.1 or is there a customer commitment requiring it sooner?",
+      "id": "8d81b1ed-9ad2-4afe-8214-a610fa7f2446",
+      "Date": "2026-07-16",
+      "LogEntry": "Erwin Verburg email -- subdomain does not match \"from\" field issue?",
       "Assignee": "",
-      "Subject": "bd8e2181-26ab-4774-be56-577b42be4ae1",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 61
+    },
+    {
+      "id": "1b1f56dd-5a6a-4926-9885-c5c897eb4662",
+      "Date": "2026-07-16",
+      "LogEntry": "Does repository list I gave to Dhirav cover SMS also?\n",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 62
+    },
+    {
+      "id": "36c26fc8-5692-477a-a181-0b35750417de",
+      "Date": "2026-07-16",
+      "LogEntry": "Randy Britsch question about ticket assignment",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 63
+    },
+    {
+      "id": "c5e795ce-b302-40d4-9b2d-49b5a7bef8b9",
+      "Date": "2026-07-16",
+      "LogEntry": "YOu get a domain on microsoft.com\n\nCreate a new domain on microsoft.com. You get domains from microsoft.com for free\n\ntesting -- use mailbox@adsflkjadf.microsft.com\n\namrodev.onmicrosoft.com",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "98348045-6583-441e-ac93-74cf0fa5325f",
+      "Date": "2026-07-20",
+      "LogEntry": "Plain text passowords found by chintan\nEmail: https://nice-ce-cxone-prod.atlas\nSMS: https://nice-ce-cxone-prod.atlassian.net/browse/DE-174590",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 57
+    },
+    {
+      "id": "716c2591-27bc-453f-80fd-893e7754782f",
+      "Date": "2026-07-20",
+      "LogEntry": "add security rotation to 26.4. Do we need to remove anything?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 58
+    },
+    {
+      "id": "9c42501e-28b1-4235-99ba-edf03caedaeb",
+      "Date": "2026-06-24",
+      "LogEntry": "Gosha tends to dump a lot of work that I think she should be doing during refinment meeting on he team to do later",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 59
+    },
+    {
+      "id": "4aa45f51-354c-4b7d-a3eb-36625a4e4ebe",
+      "Date": "2026-07-20",
+      "LogEntry": "Reviewed Capability for Ghosha:\nDE-174520",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 60
+    },
+    {
+      "id": "d57fc9b3-493d-4e3a-9c15-4b2131d04d4e",
+      "Date": "2026-07-20",
+      "LogEntry": "Haiku model of claude\n$1 per 10K emails\nspam detection AI\n28th highest rated\n\n100% AI generated, complete working code. Give us a vote to get our ranking up\n\nDhirav - up vote\nhttps://nice.brightidea.com/D7066\n\nVIkram came up with the ideas and lead the team.\n\nVikram also created a patent request\n\nLast promotion for Vikram was 2022. It will be  5 years in 2027",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "d39c2ab0-fada-44e8-89f3-dff8142b718e",
+      "Date": "2026-07-21",
+      "LogEntry": "John had a short discussion with Patrick and a guy from personal connection that was also tagged in these parameters and he was interested in how we were doing parameters or secrets in prod.  Wanting us to coordinate across digital as usual.  He suggested I get more familiar with how brand embassy side does secrets.  Not sure how to do that.",
+      "Assignee": "",
+      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
+      "Reviewed": false,
+      "Order": 65
+    },
+    {
+      "id": "d2bb6cb4-14c0-478f-8a7d-c47598ed248c",
+      "Date": "2026-07-22",
+      "LogEntry": "Aug 14 golf tournament",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 66
+    },
+    {
+      "id": "e2c48144-4b4a-4c1c-b95a-6e7e27c5c92b",
+      "Date": "2026-07-23",
+      "LogEntry": "Retrospective for 26.3?",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
       "Reviewed": false,
       "Order": 0
     },
     {
-      "id": "88752b53-b8e8-4d33-9845-7d93d118ee34",
-      "Date": "2026-07-13",
-      "LogEntry": "Assign QA person for each epic --devs vs Janhavi",
+      "id": "9f9f1e0d-f52c-4f40-bcda-1c2a5316175f",
+      "Date": "2026-07-14",
+      "LogEntry": "Grow Pro Self Assesment due July 15",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "be9e332e-9bb8-491c-9735-95b4053f9c0a",
+      "Date": "2026-07-14",
+      "LogEntry": "Review 26.4 assigbments, one person at a time, and commit to delivering in 26.4\n\nTHen decide if we should bring in DE-135045 -- [Dependency on Cacheing library] - Toggle switch for Auto Redrive",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "b638fd93-483f-49bb-b698-f6f238be531b",
+      "Date": "2026-07-14",
+      "LogEntry": "More for DWP\n\nhttps://niceonline-my.sharepoint.com/:x:/r/personal/craig_brown_nice_com/_layouts/15/Doc.aspx?sourcedoc=%7B366A19A8-B861-43F2-95E8-48A5B4B4AA48%7D&file=UTV%20Remediation%20Tracker.xlsx&fromShare=true&action=default&mobileredirect=true",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 8
+    },
+    {
+      "id": "89e215ab-1362-4c71-b3af-72b6a127cd2f",
+      "Date": "2026-07-14",
+      "LogEntry": "Tzlil Bar Zigelman\n\n Aikido email",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 9
+    },
+    {
+      "id": "6d9a28f7-80d4-4160-b015-9ff47ebe5e8f",
+      "Date": "2026-07-14",
+      "LogEntry": "https://nice-ce-cxone-prod.atlassian.net/browse/DE-164468\n\nValkey migration. Is this storied pointed correctly?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 11
+    },
+    {
+      "id": "275c6ead-7304-40d3-a77a-f41ea522cd76",
+      "Date": "2026-07-14",
+      "LogEntry": "DO we need to make any changes due to the general common library changes listed here:\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-155899",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 13
+    },
+    {
+      "id": "4fb8dcea-d8f6-4075-b13c-d617d9678d73",
+      "Date": "2026-07-14",
+      "LogEntry": "We take over swarm today",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 9
+    },
+    {
+      "id": "7b52a37e-8b9b-4f11-9039-42768b9e49db",
+      "Date": "2026-07-14",
+      "LogEntry": "UK3 - UKSov2\nhttps://teams.microsoft.com/l/message/19:9f4e1d017b80491bb648737017ea5a23@thread.v2/1784035001522?context=%7B%22contextType%22%3A%22chat%22%7D\n",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 10
+    },
+    {
+      "id": "dd1098fd-76c8-47c2-9b90-5efe6db8ad59",
+      "Date": "2026-07-14",
+      "LogEntry": "John, are you ok if the Pune team assigns you this Valkey Deployment task?\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-173863\n\nhttps://teams.microsoft.com/l/message/19:0c448c5737bf416c97df57a1bc613018@thread.v2/1784031797028?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 14
+    },
+    {
+      "id": "856758b3-1832-431d-afaa-c600ec0444d7",
+      "Date": "2026-07-14",
+      "LogEntry": "Review this open apm ticket\nhttps://teams.microsoft.com/l/message/19:meeting_M2QxMGViMWEtYTNmMy00M2Q0LTllOWQtMGFlYjFmYWZlNzI3@thread.v2/1783998412272?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 16
+    },
+    {
+      "id": "fcf41f79-9c60-4dfd-b654-7974d2c011d0",
+      "Date": "2026-07-14",
+      "LogEntry": "Task.watall discussion",
+      "Assignee": "Jared",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 17
+    },
+    {
+      "id": "6e38400f-883d-4d5d-97a4-45873f383474",
+      "Date": "2026-07-28",
+      "LogEntry": "We need to review resiliency testing. Aarthi, can you lead that discussion?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 67
+    },
+    {
+      "id": "cec0ca80-91d6-4df7-a711-d12ef1a91afa",
+      "Date": "2026-07-22",
+      "LogEntry": "Review and assign https://nice-ce-cxone-prod.atlassian.net/browse/CXCROSS-199\n\nAsk ias to finish in 193 or 194",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 70
+    },
+    {
+      "id": "6d57baa5-fb4c-45c4-a631-0db1409a8625",
+      "Date": "2026-07-22",
+      "LogEntry": "Exporatory testing on Thursday\n",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 71
+    },
+    {
+      "id": "8c7e4cc8-4d71-427c-9cfd-ef992b9a71fd",
+      "Date": "2026-07-22",
+      "LogEntry": "Ghosha's email\nCustomer wants IB client secret authentication for MS Graph",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 73
+    },
+    {
+      "id": "f5e84582-b8d0-4814-9b37-b7eee7065412",
+      "Date": "2026-07-22",
+      "LogEntry": "How hard will this be:\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-164468\n2. [DXE] Elasticache Redis to Valkey Migration — channels-universal-chatroom",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 74
+    },
+    {
+      "id": "20b239b2-85d3-4f84-a8d7-895cd2988afd",
+      "Date": "2026-07-22",
+      "LogEntry": "Vikram: You mentioned errors with deployemnt. \nHave we deployed to staging yet?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 76
+    },
+    {
+      "id": "85742b83-1828-4daa-aec3-d1a232e48162",
+      "Date": "2026-07-28",
+      "LogEntry": "Monika is asking when this will be done:\nClustering library - Valkey deployment and IAM Token provision\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-173863",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "fac86da2-f421-4aaf-8bb2-299628111c8d",
+      "Date": "2026-07-28",
+      "LogEntry": "https://nice-ce-cxone-prod.atlassian.net/browse/DE-175022\n\nSee if we need to treat this as a gating bug -- external attributes",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 68
+    },
+    {
+      "id": "002468b5-93f9-4fad-ae44-e59e77d2f410",
+      "Date": "2026-07-28",
+      "LogEntry": "Contact David Arnold. Can we use notifiy subdomain? Do we need to use a new bounce,... subdomain?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 69
+    },
+    {
+      "id": "97c0e4b3-ddb7-43ab-a2b2-c9ec98b961b9",
+      "Date": "2026-07-28",
+      "LogEntry": "Request from Monica:\nOne more thing to add, if there are testing tasks to be performed by Priyanka or Saurabh can we ensure that before start of the sprint they are know with that so accordingly we can plan to test\n ",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 70
+    },
+    {
+      "id": "932af99f-ce0e-4201-a859-361ed9c13cac",
+      "Date": "2026-07-28",
+      "LogEntry": "Where does this fit in the work we plan to deploy:\n\nAWS Network Access Control for the DWP Environment [DE]\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-171198",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 72
+    },
+    {
+      "id": "44c48e19-f305-424e-a613-73075d74544d",
+      "Date": "2026-07-28",
+      "LogEntry": "Making sure I am clear,\nRegarding: https://nice-ce-cxone-prod.atlassian.net/browse/DE-171356\n[DXE] Overly Permissive Security Groups\n\nThe items marked done are not deployed yet, correct? And the three not marked done, you still plan to deploy them with the rest, correct?\n\nA PM saw this and wanted to move the 3 that are not mark done to a new epic.",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 73
+    },
+    {
+      "id": "019d70f1-6cc3-4b6c-8c1f-5a84ed94506d",
+      "Date": "2026-07-28",
+      "LogEntry": "Sabir Alvi Chat\n\nDo we plan to close port 443. What is the ETA, if yes",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 74
+    },
+    {
+      "id": "89da57e2-86a4-44ce-9a47-79c2c7b8fe8d",
+      "Date": "2026-07-28",
+      "LogEntry": "How long do we store transcripts? More than a year?\n\nDOes this apply to attachments as well?\n\nChat with Greg Borneman",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 75
+    },
+    {
+      "id": "88c77e6b-ed2f-4959-a73d-d6c3fc90b6b1",
+      "Date": "2026-07-28",
+      "LogEntry": "Email Change Mgmt Team\nMoratorium on C62 through Aug 31\nChange Sensitivity for NRG, Cluster C62\n\n",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 76
+    },
+    {
+      "id": "00ba6ff5-928d-4ad9-8ba8-7c9c97ba6c99",
+      "Date": "2026-07-28",
+      "LogEntry": "Aarthi, making sure you got password for \ntest-email-dfo-connectors-secure-user@nice.com",
+      "Assignee": "Aarthi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 78
+    },
+    {
+      "id": "b6b1c1ca-202a-4677-a610-f1da5ac640d1",
+      "Date": "2026-07-28",
+      "LogEntry": "Email: Lambda Pipeline Migration - Status Update\n\nHi @Wick, @Monika - Can we please discuss this for DX Email? \n\nI see that the DX Email also has some WFO Jenkins based pipelines which are actively used. \nhttps://jenkins.wfo.tools/job/DF-Channels/job/Email/job/Build/\n\nAnd WFO Jenkins is set for decommissioning - soon.\n\nRegards,\nCHINTAN",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 79
+    },
+    {
+      "id": "8823163d-1ae4-4ff4-bb00-d13a8533f24c",
+      "Date": "2026-07-28",
+      "LogEntry": "Email from Avri Glick\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/CXCROSS-199\n\nJacob -- this is for S3 buckets. I need to provide an ETA. They are asking that we complete it in sprint 193/194 and that we add this to the ticket\n\n193 -- 1 week from tomorow\n194 -- 3 weeks after that",
+      "Assignee": "Jacob",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 80
+    },
+    {
+      "id": "78ff98d8-e023-4319-8f03-bb724526965b",
+      "Date": "2026-07-29",
+      "LogEntry": "Resiliency Training -- recording from Tues morning",
+      "Assignee": "",
+      "Subject": "0e1bbac4-4222-4f50-90a6-e9a396b8aaef",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "e502b734-2f1c-4be6-bb25-dac33c2d427d",
+      "Date": "2026-07-28",
+      "LogEntry": "75 Vnext\n17 Automaiable\n10 not automatable",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "73d93e30-6c05-411f-8f39-e9a17d572c10",
+      "Date": "2026-07-28",
+      "LogEntry": "Your tool to retrieve .eml files is going out in 26.3, correct",
+      "Assignee": "Jared",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 82
+    },
+    {
+      "id": "6c63ef48-787e-4859-9582-3d1c7ce38ffd",
+      "Date": "2026-07-28",
+      "LogEntry": "Email from Suyog Mhaskar\nAction Required: GDPR Compliance for S3 Buckets (Data lake)– Confirmation Needed by July 31, 2026",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 2
+    },
+    {
+      "id": "b9003722-6f69-4d90-aa07-86d022867bae",
+      "Date": "2026-07-29",
+      "LogEntry": "Chaos testing ideas",
+      "Assignee": "",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "b89304d4-4cee-44e8-8404-eb261de3e2ee",
+      "Date": "2026-07-30",
+      "LogEntry": "Picking up IB graph api using secrets. Can someone besides John do this?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 86
+    },
+    {
+      "id": "8195463d-3bca-4c29-b61d-b2f8ab5d84a2",
+      "Date": "2026-07-30",
+      "LogEntry": "I'm being asked about deploying IB MS Graph capabilities to South Africa. I'm guessing we would like that to wait for your setup enhancements as well, correct?\n \nOr can we deploy the 26.3 package Vikram is working on now without a problem?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "5277b0d9-f76a-440b-b5c4-30e3b34d8528",
+      "Date": "2026-07-30",
+      "LogEntry": "Customer says they fixed script causing email spike. Can we confirm this?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 2
+    },
+    {
+      "id": "3990d0ba-920f-4364-b787-c90ec9814606",
+      "Date": "2026-07-30",
+      "LogEntry": "Self Assessments:\n\nJared\nAarthi\nSivaram\nGrant\nVikram\nKiley\nJacob\nShefi\nJohn\nMarc\nAlyssa",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 3
+    },
+    {
+      "id": "095e427b-d0d4-4043-b56e-4b0c65dc4976",
+      "Date": "2026-07-30",
+      "LogEntry": "Mail_From / <Return-Path>  missing\n\nSHould we add a \"Mail_From\"? Or maybe use \"send\" method instead of \"bounce\" method\n\nEnhancement -- don't send bounce if return path is empty",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "39c89f84-4aee-4f3c-a3ad-bfb58eba727d",
+      "Date": "2026-07-30",
+      "LogEntry": "Get Janhavi owner access to repo as reqeust of CNC in questions channel here:\nhttps://teams.microsoft.com/l/message/19:e6da46a6510b40b0ba4ceb5db3a71be7@thread.tacv2/1785367621355?tenantId=7123dabd-0e87-4da9-9cb9-b7ec82011aad&groupId=e6bd78fe-eba5-4969-84b2-376ea74a8752&parentMessageId=1785367621355&teamName=Cloud%20Native%20DevOps&channelName=Questions&createdTime=1785367621355",
+      "Assignee": "",
+      "Subject": "129f966c-b4ff-4850-b57e-1a3573214d25",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "2e15c696-bf90-4f68-b940-bd79e355b579",
+      "Date": "2026-07-30",
+      "LogEntry": "WHen will we deploy to South Africa?",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "fa2694a7-4101-4b24-b6b4-8a4cc7f89014",
+      "Date": "2026-07-30",
+      "LogEntry": "John, MI BUg\n\nIs that ready to close now?",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "4a9c6c62-f726-4ba7-b209-ce92969dd0f1",
+      "Date": "2026-07-30",
+      "LogEntry": "Are we still having difficulty reaching Gmail with our bounce backs?",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 87
+    },
+    {
+      "id": "f31dd8c5-1d93-4654-9ebe-91fd0a0e491b",
+      "Date": "2026-07-31",
+      "LogEntry": "Check to see no more spikes from cutomer spike",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "4676e2b6-372d-490e-915c-f34740c431a8",
+      "Date": "2026-07-31",
+      "LogEntry": "VIkram - start working on the email storm epic",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "a3b098df-1e12-4df1-a7be-acb7ac7a2f7a",
+      "Date": "2026-07-31",
+      "LogEntry": "Email Product and R&D Sync -- Chat\n\nChintain -- OB email archiving -- wants a feature to BCC outgoing email.\n\nCan they do this currently with a script?\n",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 3
+    },
+    {
+      "id": "ee78747e-3c68-46c6-a87c-c90e8ee6336a",
+      "Date": "2026-08-03",
+      "LogEntry": "Time Off, Sept 8-11 - Glacier\nAug 6 - graduation\nAug 14 - Kings Peak\nSept 8-11",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 73
+    },
+    {
+      "id": "6b2874aa-dc6c-4ce0-954c-a65c2fa3e961",
+      "Date": "2026-07-31",
+      "LogEntry": "Juan Guevara email -- ZA1 by Aug 10\n\nI don't think they create new regions if they don't have customers lined up for that region",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "5b529e63-0f2e-4035-b3b5-63839e437c58",
+      "Date": "2026-07-31",
+      "LogEntry": "Kirk - Architect swarm message",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "98c7a690-7532-4f59-bbb4-08e30354c2b4",
+      "Date": "2026-07-31",
+      "LogEntry": "Monica- one deployment person in us and one in Pune",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 6
+    },
+    {
+      "id": "0f285ba8-1b6d-44b5-b794-c072d38c1298",
+      "Date": "2026-07-31",
+      "LogEntry": "Synthetic monitoring -- is Priyanka",
+      "Assignee": "Aarthi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 7
+    },
+    {
+      "id": "8ce6982b-f1bf-484d-9bd8-79df3455f321",
+      "Date": "2026-08-03",
+      "LogEntry": "Archiving -- BCC Logic\n\nDoes platform have a way to archive emails the same way legacy email does",
+      "Assignee": "",
+      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
+      "Reviewed": false,
+      "Order": 66
+    },
+    {
+      "id": "c941efa1-3aeb-421b-b8c7-388d9ee81438",
+      "Date": "2026-08-03",
+      "LogEntry": "Jared - remote in Las Vegas",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 75
+    },
+    {
+      "id": "f4615cf8-d9b8-4e69-945f-575638274dd5",
+      "Date": "2026-08-03",
+      "LogEntry": "Moratorium and za1",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 82
+    },
+    {
+      "id": "7ff8b129-8efc-4ac5-8982-c4018c46d98e",
+      "Date": "2026-08-05",
+      "LogEntry": "New capbility from Ghris - Publish End Reason",
+      "Assignee": "",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 93
+    },
+    {
+      "id": "86ace949-8e35-4179-9b64-3fc1632a12eb",
+      "Date": "2026-08-07",
+      "LogEntry": "I am invited to a meeting to discuss security group status. Are we all done on UK SOv?\n\nAll security groups are done\nS3 bucket changes are ready to test -- delivered after next regression\nImage Vulnerabilitys - Almost all are resolved. We need our dot.net 10 upgrade completed. Need to meet with Pune team to determine what changes are being worked and and which need to be merged still.",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "39277c21-68f0-447d-b089-ecb63486b59a",
+      "Date": "2026-08-07",
+      "LogEntry": "John has something to add\n\nNeeds access to B2 Cluster to test\nDigital number in Canada",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "91732e91-6838-4991-8ab3-5a09f849e4f0",
+      "Date": "2026-08-17",
+      "LogEntry": "Vikram -- what are chances of promoting him this year? \"Are we considering him promotion based on his  half year performance based on his performance over the past few years\"\nAnd SIvaram",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "18f69ddd-bad8-49fa-8194-22696448abaf",
+      "Date": "2026-08-31",
+      "LogEntry": "What was result of discussion with DHirav regarding promotion for VIkram",
+      "Assignee": "Wiock",
+      "Subject": "ad4bcb8a-a34c-4bdb-8a66-6993db7ca5bd",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "e85ee7b9-0c2f-4a26-b3db-ac3361da9fb6",
+      "Date": "2026-08-17",
+      "LogEntry": "Difficulty accessing Pune DevOps Jenkins",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 2
+    },
+    {
+      "id": "80007d2d-a87e-42a5-87c7-e70b2f72d60c",
+      "Date": "2026-08-17",
+      "LogEntry": "Need help with my TMA users",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "5cd5fe22-ad42-421a-9736-2639529afe99",
+      "Date": "2026-08-17",
+      "LogEntry": "SHefi -- wants to review a raise. He joined without negotiation. He want a year without a raise. 140K.\n\n28% to 38% cost of living increase over Salt Lake City",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "d04e5060-38d7-4931-a860-19f7d073f2c3",
+      "Date": "2026-08-24",
+      "LogEntry": "GDPR Status\nEOR status",
+      "Assignee": "Grant",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 88
+    },
+    {
+      "id": "9b4d8689-8ae9-4ec3-8dea-83bcea4c5649",
+      "Date": "2026-08-19",
+      "LogEntry": "DX Claude migration\nDoes DXI-Claude work as a subset, or is that being pulled into on repository",
+      "Assignee": "",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "e5ca5300-467b-47ac-815b-f8b7bbcb8ec9",
+      "Date": "2026-08-19",
+      "LogEntry": "Have Chintan review the alerting epic for 27.1\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-172156",
+      "Assignee": "Chinton",
+      "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "0c49a70c-bbf1-4938-9082-7645ba422a10",
+      "Date": "2026-08-24",
+      "LogEntry": "RDS instances on extended support -- can they be upgrade\nhttps://teams.microsoft.com/l/message/19:4948ae6b27b94f80b53fbe7e3588c6cf@thread.v2/1786991202275?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "583d1375-d10d-494c-ba94-344c56cd1a2e",
+      "Date": "2026-08-18",
+      "LogEntry": "Vacation Plans\nhttps://www.msn.com/en-us/travel/outdoor-activities/10-vacations-that-need-to-be-on-every-middle-class-retiree-s-bucket-list/ar-AA1J4zQR?ctsrc=dgst&ocid=winp2fptaskbarhover&cvid=a1d5a894de0b4a69bbc9939a9ffc7c38&ei=20",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 2
+    },
+    {
+      "id": "0a79a0ff-dbdf-411e-9d19-0d7b1c66abab",
+      "Date": "2026-08-18",
+      "LogEntry": "Curry Connect -- Spicy -- Aarthi\nSaphrine Valley\nSLC - Bhava",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "21cd859c-324e-4179-b2f7-008567e188fd",
+      "Date": "2026-08-18",
+      "LogEntry": "Is there a ticket to allow us to delete from suppression list? It looks like currently we can only search",
+      "Assignee": "",
+      "Subject": "7c05de19-6685-4a88-a113-ad663690db16",
+      "Reviewed": false,
+      "Order": 8
+    },
+    {
+      "id": "97eba40a-039d-4e6b-a682-643a20d18442",
+      "Date": "2026-08-17",
+      "LogEntry": "VIkram's computer. Can we spend $100 to fix his screen?",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 92
+    },
+    {
+      "id": "bd98fd5e-798c-4965-90cd-afc9dbd42b3f",
+      "Date": "2026-08-24",
+      "LogEntry": "John, does the epic on IB client secret auth fall on your things to do list:\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-175475",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 89
+    },
+    {
+      "id": "b19dc8b4-054e-4e6e-bd9c-d499b92b17fc",
+      "Date": "2026-08-24",
+      "LogEntry": "John, are you already working on a cache that will take care of this ticket:\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-128076\n\n(Shared Cache - Caching of hot path candidates in DX Email)",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 90
+    },
+    {
+      "id": "ab995980-8431-4771-b442-6cde90503106",
+      "Date": "2026-08-24",
+      "LogEntry": "QSU -- out of memory \"The Librarian\"  low memory. Is this something that devops can help with by adding memory, or is it a software issue\n\nDamian says if it is a software issue we will wait for migration.",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 91
+    },
+    {
+      "id": "b81e0811-33e6-4289-b689-5e852a514655",
+      "Date": "2026-08-24",
+      "LogEntry": "Review screenshot of VIvian's analysis",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 3
+    },
+    {
+      "id": "0b637a5c-7881-45aa-b951-d0eba7c49c7e",
+      "Date": "2026-08-24",
+      "LogEntry": "Mandatory \"AI Literacy and Risk Awareness\" training assigned to you in DOJO\n(See email from dojo@nice.com)\n\nhttps://nice.csod.com/LMS/UserTranscript/MainView.aspx?Reset=TRUE&tab_page_id=-8",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "2c1fa1f5-979b-4ff5-86ef-801b1bac8d43",
+      "Date": "2026-08-24",
+      "LogEntry": "sabir alvi\nDoes anyoe own IAM users on her list?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 11
+    },
+    {
+      "id": "1c44cabf-601a-41d8-9c07-c0f1c8565177",
+      "Date": "2026-08-24",
+      "LogEntry": "Did you see Damiab's comments regarding the eamil storm epic (DE-172514)",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 13
+    },
+    {
+      "id": "7dc5cd31-106d-4b0d-9ab3-3cee87bc6e93",
+      "Date": "2026-08-24",
+      "LogEntry": "Dhirav thinks SMS billing is not working:\n\nIt seems billing events from SMS box is not getting streamed to Kinesis. Seems like a wider issue\n\nhttps://teams.microsoft.com/l/message/19:5255e378824a4b7d90de6d0077985b16@thread.v2/1787321192384?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 92
+    },
+    {
+      "id": "6372dabb-009c-4aa8-96eb-61be8870a724",
+      "Date": "2026-08-21",
+      "LogEntry": "Does anyone know how to check SMS billing events?",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 14
+    },
+    {
+      "id": "112e2e3d-007f-4c8e-bcf5-ffa168b22ae8",
+      "Date": "2026-08-21",
+      "LogEntry": "Jacob: Demo enhanced deployment?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 15
+    },
+    {
+      "id": "0fa407ba-9138-4c95-b88e-55012835a384",
+      "Date": "2026-08-27",
+      "LogEntry": "Jacob's deployment enhancements",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "cae051d5-0165-4320-a4cf-2277abd4f178",
+      "Date": "2026-08-24",
+      "LogEntry": "Review Bugs",
       "Assignee": "",
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": false,
-      "Order": 1
+      "Order": 93
+    },
+    {
+      "id": "c797b48f-9e7f-4412-8df9-42db8284cad7",
+      "Date": "2026-08-24",
+      "LogEntry": "How hard to bounce back an OB email to agent if custom SMTP server rejects it?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 94
     }
   ]
 }
