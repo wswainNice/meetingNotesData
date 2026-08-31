@@ -188,6 +188,375 @@
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": true,
       "Order": 16
+    },
+    {
+      "id": "0c49a70c-bbf1-4938-9082-7645ba422a10",
+      "Date": "2026-08-24",
+      "LogEntry": "RDS instances on extended support -- can they be upgrade\nhttps://teams.microsoft.com/l/message/19:4948ae6b27b94f80b53fbe7e3588c6cf@thread.v2/1786991202275?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "bd98fd5e-798c-4965-90cd-afc9dbd42b3f",
+      "Date": "2026-08-24",
+      "LogEntry": "John, does the epic on IB client secret auth fall on your things to do list:\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-175475",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 89
+    },
+    {
+      "id": "b19dc8b4-054e-4e6e-bd9c-d499b92b17fc",
+      "Date": "2026-08-24",
+      "LogEntry": "John, are you already working on a cache that will take care of this ticket:\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-128076\n\n(Shared Cache - Caching of hot path candidates in DX Email)",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 90
+    },
+    {
+      "id": "ab995980-8431-4771-b442-6cde90503106",
+      "Date": "2026-08-24",
+      "LogEntry": "QSU -- out of memory \"The Librarian\"  low memory. Is this something that devops can help with by adding memory, or is it a software issue\n\nDamian says if it is a software issue we will wait for migration.",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 91
+    },
+    {
+      "id": "b81e0811-33e6-4289-b689-5e852a514655",
+      "Date": "2026-08-24",
+      "LogEntry": "Review screenshot of VIvian's analysis",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "0b637a5c-7881-45aa-b951-d0eba7c49c7e",
+      "Date": "2026-08-24",
+      "LogEntry": "Mandatory \"AI Literacy and Risk Awareness\" training assigned to you in DOJO\n(See email from dojo@nice.com)\n\nhttps://nice.csod.com/LMS/UserTranscript/MainView.aspx?Reset=TRUE&tab_page_id=-8",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "2c1fa1f5-979b-4ff5-86ef-801b1bac8d43",
+      "Date": "2026-08-24",
+      "LogEntry": "sabir alvi\nDoes anyoe own IAM users on her list?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 11
+    },
+    {
+      "id": "1c44cabf-601a-41d8-9c07-c0f1c8565177",
+      "Date": "2026-08-24",
+      "LogEntry": "Did you see Damiab's comments regarding the eamil storm epic (DE-172514)",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 13
+    },
+    {
+      "id": "7dc5cd31-106d-4b0d-9ab3-3cee87bc6e93",
+      "Date": "2026-08-24",
+      "LogEntry": "Dhirav thinks SMS billing is not working:\n\nIt seems billing events from SMS box is not getting streamed to Kinesis. Seems like a wider issue\n\nhttps://teams.microsoft.com/l/message/19:5255e378824a4b7d90de6d0077985b16@thread.v2/1787321192384?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 92
+    },
+    {
+      "id": "c797b48f-9e7f-4412-8df9-42db8284cad7",
+      "Date": "2026-08-24",
+      "LogEntry": "How hard to bounce back an OB email to agent if custom SMTP server rejects it?\n\nVIkram looked into it. A few instances \n\nIf recipient server generates a bounce. If customer's domain has a relay configure don our BLC, it will come back to the agent.  But as a new thread. To put into the same thread would be difficult",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 94
+    },
+    {
+      "id": "d6f83edf-8d01-4d3c-b7a7-76b578d13b99",
+      "Date": "2026-08-24",
+      "LogEntry": "Need to pass John's PR",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 96
+    },
+    {
+      "id": "d04e5060-38d7-4931-a860-19f7d073f2c3",
+      "Date": "2026-08-24",
+      "LogEntry": "GDPR Status\nEOR status",
+      "Assignee": "Grant",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 88
+    },
+    {
+      "id": "cae051d5-0165-4320-a4cf-2277abd4f178",
+      "Date": "2026-08-24",
+      "LogEntry": "Review Bugs",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 93
+    },
+    {
+      "id": "631ef4e3-bcbe-4c18-ba1f-088aa039bb9f",
+      "Date": "2026-08-24",
+      "LogEntry": "Who is next on swarm duty",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 95
+    },
+    {
+      "id": "17e41601-4429-480f-a68f-672ac31d7258",
+      "Date": "2026-08-24",
+      "LogEntry": "Tickets for Janhavi",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 96
+    },
+    {
+      "id": "7f931920-55f8-4f0e-99e1-f0f37d39af67",
+      "Date": "2026-08-25",
+      "LogEntry": "Deployment strategy",
+      "Assignee": "Wick",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "34966a8e-1027-41b5-bfc1-aea05f9f818d",
+      "Date": "2026-08-25",
+      "LogEntry": "Quality Definition of Done\nhttps://nice-ce-cxone-prod.atlassian.net/wiki/spaces/CX/pages/4017357657/Quality+Definition+of+Done\n",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 98
+    },
+    {
+      "id": "7d4e8ed0-65d4-40f0-be4f-5fde636cf4a3",
+      "Date": "2026-08-25",
+      "LogEntry": "Could you please suggest Aarthi to sync once with Saurabh from Pune team on this, he was contacted by the Resiliency program and was asked to provide update on the work we are doing on the Resiliency front",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 99
+    },
+    {
+      "id": "4671523a-166e-4ed6-a953-b216caad79d2",
+      "Date": "2026-08-25",
+      "LogEntry": "I'm taking Thursday off",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 100
+    },
+    {
+      "id": "39b99c2a-af93-46f6-88c3-e10cbfc7c59b",
+      "Date": "2026-08-25",
+      "LogEntry": "Sudha Hanchate",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 96
+    },
+    {
+      "id": "64d41920-0e54-4089-8c44-d34a43458d9f",
+      "Date": "2026-08-25",
+      "LogEntry": "Quality Definition of Done\nhttps://nice-ce-cxone-prod.atlassian.net/wiki/spaces/CX/pages/4017357657/Quality+Definition+of+Done",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 97
+    },
+    {
+      "id": "761b6f92-b3dc-48a0-a7b3-148d1fae5419",
+      "Date": "2026-08-25",
+      "LogEntry": "I'm taking Thursday off",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 101
+    },
+    {
+      "id": "38c04396-8ede-44c4-a7ef-cb668c1d93ee",
+      "Date": "2026-08-28",
+      "LogEntry": "Inbound Mailer Daemon due to outbound report being bounced. Default return address?\n\nhttps://teams.microsoft.com/l/message/19:4ad755ee27084dab9f4dc1a0b1e87522@thread.v2/1787893351022?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "fe3055f4-daa8-4bda-ad72-91c09dbf3546",
+      "Date": "2026-08-28",
+      "LogEntry": "Sign up for wings conference today - Tracie",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "27894644-7a2a-4195-a77f-ef64487aa8ca",
+      "Date": "2026-08-28",
+      "LogEntry": "When to deploy vulnerability fixes -- next cu - regression testing",
+      "Assignee": "Jacob",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "5a825d70-4df3-41a1-9974-4596432e22c7",
+      "Date": "2026-08-28",
+      "LogEntry": "Billing fix backfill ",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "a47b369b-6cc8-4265-a3cd-1f60424f7f74",
+      "Date": "2026-08-28",
+      "LogEntry": "John, have you been watching the swarm",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "fb0ae6e5-6a92-4f95-8068-7f10b75abe9e",
+      "Date": "2026-08-26",
+      "LogEntry": "I am off tomorrow (Thurs)",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "297bcdbb-a41e-4f92-9481-9b6104782355",
+      "Date": "2026-08-26",
+      "LogEntry": "What FTs did we add in 26.3?\nhttps://teams.microsoft.com/l/message/19:89fdbb8850534f6b8bab85248a880652@thread.v2/1787763548225?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 7
+    },
+    {
+      "id": "afe14fe0-e2a3-466f-94c0-0ed827a98ce1",
+      "Date": "2026-08-26",
+      "LogEntry": "Jacob: s3 buckets discussion",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 8
+    },
+    {
+      "id": "da35e024-2cf9-47e7-aecd-ad469d56a959",
+      "Date": "2026-08-28",
+      "LogEntry": "Chad Weight email -- training for tech support on how toclear stuck contacts",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "6820ad95-09fe-465c-a710-9fe91e4bbbd0",
+      "Date": "2026-08-28",
+      "LogEntry": "Dhirav wants to know who should create the emergency CR\nhttps://teams.microsoft.com/l/message/19:dfe5b6226ee44de4a7b5bda671346d23@thread.v2/1787918653229?context=%7B%22contextType%22%3A%22chat%22%7D\n",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "6d62e4a0-d2b1-4ddb-a159-826938eee202",
+      "Date": "2026-08-28",
+      "LogEntry": "Sign up for wings conference today - Tracie",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "74c7f68d-ffac-44ce-ba09-854274e9c53f",
+      "Date": "2026-08-28",
+      "LogEntry": "Marc - stuck contact tool changes -- is that part of your tech support training?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "822175ae-5842-415d-adc0-2b02a6f7ddf1",
+      "Date": "2026-08-26",
+      "LogEntry": "Kiley, does this align with the secrets work you are doing?\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-175490\n\n(From Chris Larsen)",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "957ca033-e8f5-4305-9047-8ffd8863359b",
+      "Date": "2026-08-26",
+      "LogEntry": "I have tomorrow off",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "562cb151-f8e9-4da4-8edf-59610cb77dea",
+      "Date": "2026-08-26",
+      "LogEntry": "Where are we with pagination. Still not in prod?",
+      "Assignee": "Marc",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "240d1b1a-88fc-4134-9632-21ef86134b96",
+      "Date": "2026-08-31",
+      "LogEntry": "Should be considered an enhancement:\n1. [27.1] Add SES Engagement Events Streaming Capability [BU FT Gated]\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-177444",
+      "Assignee": "",
+      "Subject": "bd8e2181-26ab-4774-be56-577b42be4ae1",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "fbc8c3a5-cf29-4f80-a0cf-568e45dd6c49",
+      "Date": "2026-08-31",
+      "LogEntry": "EAP UI from Dimitre and Pillipe\n\nUI: https://nice-ce-cxone-prod.atlassian.net/wiki/spaces/CXONE/pages/3964207282/AEP+Core+-+Future+UX+Not+MVP",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "74b46682-1792-402f-bb7f-a371ad3847cd",
+      "Date": "2026-08-31",
+      "LogEntry": "What was the root cause of the billing problem?",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "7d973964-d4b3-4380-9a67-3808b9181dda",
+      "Date": "2026-08-31",
+      "LogEntry": "Outbound SMS issue today. What is being fixed?",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 4
     }
   ]
 }

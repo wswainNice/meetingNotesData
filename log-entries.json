@@ -218,7 +218,7 @@
     },
     {
       "id": "45962a9b-924c-4eb2-9af6-2f22a891ec06",
-      "Date": "2026-08-24",
+      "Date": "2026-08-28",
       "LogEntry": "Don Aguado -- see email -- let him know when Jared is finished with tool to resend email\n\nWhat region?",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
@@ -1325,7 +1325,7 @@
     },
     {
       "id": "91732e91-6838-4991-8ab3-5a09f849e4f0",
-      "Date": "2026-08-17",
+      "Date": "2026-08-25",
       "LogEntry": "Vikram -- what are chances of promoting him this year? \"Are we considering him promotion based on his  half year performance based on his performance over the past few years\"\nAnd SIvaram",
       "Assignee": "",
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
@@ -1334,7 +1334,7 @@
     },
     {
       "id": "18f69ddd-bad8-49fa-8194-22696448abaf",
-      "Date": "2026-08-31",
+      "Date": "2026-08-28",
       "LogEntry": "What was result of discussion with DHirav regarding promotion for VIkram",
       "Assignee": "Wiock",
       "Subject": "ad4bcb8a-a34c-4bdb-8a66-6993db7ca5bd",
@@ -1343,16 +1343,16 @@
     },
     {
       "id": "e85ee7b9-0c2f-4a26-b3db-ac3361da9fb6",
-      "Date": "2026-08-17",
+      "Date": "2026-08-25",
       "LogEntry": "Difficulty accessing Pune DevOps Jenkins",
       "Assignee": "",
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 2
     },
     {
       "id": "80007d2d-a87e-42a5-87c7-e70b2f72d60c",
-      "Date": "2026-08-17",
+      "Date": "2026-08-25",
       "LogEntry": "Need help with my TMA users",
       "Assignee": "",
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
@@ -1361,21 +1361,12 @@
     },
     {
       "id": "5cd5fe22-ad42-421a-9736-2639529afe99",
-      "Date": "2026-08-17",
+      "Date": "2026-08-25",
       "LogEntry": "SHefi -- wants to review a raise. He joined without negotiation. He want a year without a raise. 140K.\n\n28% to 38% cost of living increase over Salt Lake City",
       "Assignee": "",
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 5
-    },
-    {
-      "id": "d04e5060-38d7-4931-a860-19f7d073f2c3",
-      "Date": "2026-08-24",
-      "LogEntry": "GDPR Status\nEOR status",
-      "Assignee": "Grant",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 88
     },
     {
       "id": "9b4d8689-8ae9-4ec3-8dea-83bcea4c5649",
@@ -1392,15 +1383,6 @@
       "LogEntry": "Have Chintan review the alerting epic for 27.1\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-172156",
       "Assignee": "Chinton",
       "Subject": "2e6f67b5-23cc-42e3-908a-4cb17dc70865",
-      "Reviewed": false,
-      "Order": 1
-    },
-    {
-      "id": "0c49a70c-bbf1-4938-9082-7645ba422a10",
-      "Date": "2026-08-24",
-      "LogEntry": "RDS instances on extended support -- can they be upgrade\nhttps://teams.microsoft.com/l/message/19:4948ae6b27b94f80b53fbe7e3588c6cf@thread.v2/1786991202275?context=%7B%22contextType%22%3A%22chat%22%7D",
-      "Assignee": "John",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
       "Order": 1
     },
@@ -1433,83 +1415,11 @@
     },
     {
       "id": "97eba40a-039d-4e6b-a682-643a20d18442",
-      "Date": "2026-08-17",
+      "Date": "2026-08-25",
       "LogEntry": "VIkram's computer. Can we spend $100 to fix his screen?",
       "Assignee": "",
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 92
-    },
-    {
-      "id": "bd98fd5e-798c-4965-90cd-afc9dbd42b3f",
-      "Date": "2026-08-24",
-      "LogEntry": "John, does the epic on IB client secret auth fall on your things to do list:\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-175475",
-      "Assignee": "John",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 89
-    },
-    {
-      "id": "b19dc8b4-054e-4e6e-bd9c-d499b92b17fc",
-      "Date": "2026-08-24",
-      "LogEntry": "John, are you already working on a cache that will take care of this ticket:\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-128076\n\n(Shared Cache - Caching of hot path candidates in DX Email)",
-      "Assignee": "John",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 90
-    },
-    {
-      "id": "ab995980-8431-4771-b442-6cde90503106",
-      "Date": "2026-08-24",
-      "LogEntry": "QSU -- out of memory \"The Librarian\"  low memory. Is this something that devops can help with by adding memory, or is it a software issue\n\nDamian says if it is a software issue we will wait for migration.",
-      "Assignee": "John",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": true,
-      "Order": 91
-    },
-    {
-      "id": "b81e0811-33e6-4289-b689-5e852a514655",
-      "Date": "2026-08-24",
-      "LogEntry": "Review screenshot of VIvian's analysis",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 3
-    },
-    {
-      "id": "0b637a5c-7881-45aa-b951-d0eba7c49c7e",
-      "Date": "2026-08-24",
-      "LogEntry": "Mandatory \"AI Literacy and Risk Awareness\" training assigned to you in DOJO\n(See email from dojo@nice.com)\n\nhttps://nice.csod.com/LMS/UserTranscript/MainView.aspx?Reset=TRUE&tab_page_id=-8",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 4
-    },
-    {
-      "id": "2c1fa1f5-979b-4ff5-86ef-801b1bac8d43",
-      "Date": "2026-08-24",
-      "LogEntry": "sabir alvi\nDoes anyoe own IAM users on her list?",
-      "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 11
-    },
-    {
-      "id": "1c44cabf-601a-41d8-9c07-c0f1c8565177",
-      "Date": "2026-08-24",
-      "LogEntry": "Did you see Damiab's comments regarding the eamil storm epic (DE-172514)",
-      "Assignee": "Vikram",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
-      "Order": 13
-    },
-    {
-      "id": "7dc5cd31-106d-4b0d-9ab3-3cee87bc6e93",
-      "Date": "2026-08-24",
-      "LogEntry": "Dhirav thinks SMS billing is not working:\n\nIt seems billing events from SMS box is not getting streamed to Kinesis. Seems like a wider issue\n\nhttps://teams.microsoft.com/l/message/19:5255e378824a4b7d90de6d0077985b16@thread.v2/1787321192384?context=%7B%22contextType%22%3A%22chat%22%7D",
-      "Assignee": "John",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
       "Order": 92
     },
     {
@@ -1540,22 +1450,112 @@
       "Order": 0
     },
     {
-      "id": "cae051d5-0165-4320-a4cf-2277abd4f178",
-      "Date": "2026-08-24",
-      "LogEntry": "Review Bugs",
+      "id": "3d861d7a-de59-4d85-9031-fc5528a20a9c",
+      "Date": "2026-08-25",
+      "LogEntry": "Sivaram: Does company reimburse any of the claude certifications?\n \n",
       "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "937c1025-02ed-469f-95a4-379c2ef55154",
+      "Date": "2026-08-25",
+      "LogEntry": "Vikram's laptop. Can we pay 100 to have them upgrade UI/screen",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "c5f89f7e-ef5e-4c96-be54-1cdf3c5c9c0c",
+      "Date": "2026-08-25",
+      "LogEntry": "Open APM logs are way too slow.\nNeed indexes?\nCan we add our own ElasticSearch tables for logging?\n\nIs there someone we can ask to add indexes?\n\nMetrics are not going to work well if it takes 10 minutes to run a query (literally).\n\nWe stopped cloudwatdh to save money. Is it worth it?",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
       "Reviewed": false,
       "Order": 93
     },
     {
-      "id": "c797b48f-9e7f-4412-8df9-42db8284cad7",
-      "Date": "2026-08-24",
-      "LogEntry": "How hard to bounce back an OB email to agent if custom SMTP server rejects it?",
+      "id": "d3ed98dc-8476-432c-99bb-5f2bf7c16bab",
+      "Date": "2026-08-25",
+      "LogEntry": "Day off Thursday",
       "Assignee": "",
-      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
       "Order": 94
+    },
+    {
+      "id": "628d6030-d8c0-4e6e-991a-23177496bc7c",
+      "Date": "2026-08-25",
+      "LogEntry": "Deployment has been very painful",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 95
+    },
+    {
+      "id": "babf16bf-30c4-45a4-b136-75cf6aa650a5",
+      "Date": "2026-08-28",
+      "LogEntry": "CLose https://nice-ce-cxone-prod.atlassian.net/browse/CXCROSS-399",
+      "Assignee": "WIck",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "3bc0a52d-dbbc-4f83-adb4-fcbf1a026a87",
+      "Date": "2026-08-31",
+      "LogEntry": "Liz -- Quality plan needs updating\n\nJanhavi, can you help update these goals? Are you familiar with these?\n\nhttps://teams.microsoft.com/l/message/19:1ad186d40d8a4d90ab7d840be21a82b3@thread.v2/1787925180068?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "Janhavi",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "f4930f2d-d410-484c-88a1-f4cab1a28cb0",
+      "Date": "2026-08-31",
+      "LogEntry": "Teams Chat: QA Leads - Digital Experience\n\nLiz needs us to update confluence page",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 2
+    },
+    {
+      "id": "4abb0838-1090-400e-a820-e521066815e5",
+      "Date": "2026-08-31",
+      "LogEntry": "ALyssa needs a user on EU3 for testing",
+      "Assignee": "Dhirav",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 3
+    },
+    {
+      "id": "4e524497-6122-483f-8a20-09e02888cf5a",
+      "Date": "2026-08-31",
+      "LogEntry": "Vikram Laptop\nhttps://teams.microsoft.com/l/message/19:566e0adbef1647bb809f1c94a284952e@thread.v2/1787693016628?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "e3aafee7-deed-4203-8ec5-4a508192dae8",
+      "Date": "2026-08-31",
+      "LogEntry": "BIlling Root cause:\nA new field was added with a security lookup id. Other code was hard coded to look for 2 header values, when now there are 3 header values.\n\nFix is going out tomorrow night. The check for 2 values was changed to look for >0 values\n\nNo tests for billing",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 6
+    },
+    {
+      "id": "0d58dd87-10a9-4369-8d3a-c109e2bbc9bc",
+      "Date": "2026-08-31",
+      "LogEntry": "Grant found a lock in code by the DFW team that is the likely cause of our concurrency limit warnings. He will talk to Ganesh from the orchestration team tomorrow to have the look into it. They are lazy loading the certificate rather than loading it on startup. They lock it every time they lazy load, causing some new events to take 10-20 seconds to complete",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 7
     }
   ]
 }
