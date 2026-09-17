@@ -1691,6 +1691,132 @@
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": false,
       "Order": 2
+    },
+    {
+      "id": "bdfbbb13-c82f-49e6-8d17-d9b211eed551",
+      "Date": "2026-09-15",
+      "LogEntry": "Review Bugs and tickets",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "f8426e43-06ab-4bc6-a0e6-75336bebb06b",
+      "Date": "2026-09-15",
+      "LogEntry": "Aikido -- how many red\n\nImage scans - no red",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "db7f5467-c239-444d-ae35-ebcc4c1b5f5d",
+      "Date": "2026-09-15",
+      "LogEntry": "69 messages\n\nCall if you need my attention",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "b8ebdb9c-3872-4d81-9439-7fffa4ad5be9",
+      "Date": "2026-09-15",
+      "LogEntry": "Reivew bugs and tickets",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "501da903-382b-430f-8b1c-3f860b7f1841",
+      "Date": "2026-09-15",
+      "LogEntry": "Loop Containment at risk",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "0008cc0a-8ad0-45bc-b080-30f3b91ff4a9",
+      "Date": "2026-09-15",
+      "LogEntry": "What is this bug?\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-178598\nDue in 25 days",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "8385a1b2-069b-4eb2-8b69-49ace855cdef",
+      "Date": "2026-09-15",
+      "LogEntry": "John, you are being asked about logs. Should Tech support have access to find this?\n\nhttps://teams.microsoft.com/l/message/19:23cba4102ef44acf9f0e1965602a1fba@thread.skype/1789357900402?tenantId=7123dabd-0e87-4da9-9cb9-b7ec82011aad&groupId=930c10af-48f9-41b6-ba52-0345000ba7b3&parentMessageId=1788994121351&teamName=TS%2FR%26D%20Support%20Swarm&channelName=Channels%20(Ingress%20and%20Egress)&createdTime=1789357900402",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "bea00490-15ba-4ec1-bd16-0601560b1460",
+      "Date": "2026-09-16",
+      "LogEntry": "For attachment error Marty Found, when do we plan to deploy a fix to EU?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "ebc4b7c9-8310-49c2-b554-b2f0e5d60aa3",
+      "Date": "2026-09-16",
+      "LogEntry": "Re: Digital Platform - Email addresses are being removed from the “to and Cc” fields\n\nDo you have a fix ready to be tested?\n\nNot that it is urgent. It shows in a daily report so I need to know how to respond.",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "e6f2f3d1-a121-4a1d-8075-a39247c2f996",
+      "Date": "2026-09-16",
+      "LogEntry": "Who has items for QA team to test? We need to let them know by yesterday (start of new sprint)",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 11
+    },
+    {
+      "id": "6b14d041-7888-4bd7-a1fd-0a1b89b307c5",
+      "Date": "2026-09-16",
+      "LogEntry": "See Teams Chat titled:\nDigital OpenSearch Domains Incurring AWS Extended Support \n\nAre these needed? Will we update the version so it doesn't require extended support?\nchannels-email-metadatadb\nchannelssms-es-domain\n\nSee column AO",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 12
+    },
+    {
+      "id": "e7fefb94-6003-4805-9ab7-e4cf863c0f65",
+      "Date": "2026-09-16",
+      "LogEntry": "Jared is taking the swarm this sprint",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "7fd714f0-3974-4992-87ab-ce4f6ab66f41",
+      "Date": "2026-09-16",
+      "LogEntry": "Marc -- Can we turn on Sugeeths flag on regions that have been deployed? Is there a region that is deployed?\n\nMake sure it is turned on in Dev",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "1d1c4b30-f2b7-4edf-b145-3c9377331ecf",
+      "Date": "2026-09-16",
+      "LogEntry": "Marc, did you work on this bug:\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-178617\n\nroutingQueueId regenerates as a new orphaned DFO routing queue",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 1
     }
   ]
 }
