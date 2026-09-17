@@ -1041,7 +1041,7 @@
       "LogEntry": "Aarthi ujpdate",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 5
     },
     {
@@ -1052,6 +1052,42 @@
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": false,
       "Order": 6
+    },
+    {
+      "id": "4784c97a-bb31-4ccb-a9d5-fe1160ca247e",
+      "Date": "2026-09-17",
+      "LogEntry": "WHich regions recieved 195 deployment",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "60685c12-0733-45d9-866f-df0b062cb599",
+      "Date": "2026-09-17",
+      "LogEntry": "What was monica's involvement with the EOR?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "3c174757-3ecb-4b70-b53a-24bf937a2fb9",
+      "Date": "2026-09-17",
+      "LogEntry": "Valkey to Staging for regressoin for Pune?",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 7
+    },
+    {
+      "id": "31e1ba8c-71be-4b54-9a67-4ab4df352dd9",
+      "Date": "2026-09-17",
+      "LogEntry": "INUCN access for chintan",
+      "Assignee": "",
+      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
+      "Reviewed": false,
+      "Order": 8
     }
   ]
 }
