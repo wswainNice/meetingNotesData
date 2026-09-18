@@ -942,7 +942,7 @@
       "LogEntry": "Chintan: Serverless requires new paid for license. Node.js.",
       "Assignee": "",
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 4
     },
     {
@@ -1023,7 +1023,7 @@
       "LogEntry": "Email from Ankita Gholap\n\nNeed to add test.yaml file to static directories. Does this affect us?",
       "Assignee": "",
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 3
     },
     {
@@ -1088,6 +1088,69 @@
       "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
       "Reviewed": false,
       "Order": 8
+    },
+    {
+      "id": "a07e6d34-06d9-47f2-9d78-460cebdae004",
+      "Date": "2026-09-17",
+      "LogEntry": "Reload DIgital Contacts -- what remains\n\nDO we need to let Chintan know he can merge?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 9
+    },
+    {
+      "id": "1f2e7660-13f7-4e42-bd7b-2e56afbc3d5d",
+      "Date": "2026-09-22",
+      "LogEntry": "Can you start on the bug fix for broken version",
+      "Assignee": "Marc",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "ed7b8ac5-4ed5-408e-9015-def766a04648",
+      "Date": "2026-09-17",
+      "LogEntry": "Grant, are you still waiting on Sivaram",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 10
+    },
+    {
+      "id": "a76d7be9-ca99-495d-8bdd-4ecc8a761654",
+      "Date": "2026-09-18",
+      "LogEntry": "How hard to remove the code for the no-risk security item discussed yseterday (said code is not in use)",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "be4e6a3e-786a-4461-a330-862f20365065",
+      "Date": "2026-09-18",
+      "LogEntry": "Game show party?\n\n(Tracie Kalmar email)",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "4d8bc7f0-ce34-4387-8897-f8fc573d0ff3",
+      "Date": "2026-09-18",
+      "LogEntry": "Game show party?\n\n(Tracie Kalmar email)",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "5c2ca2f4-5220-405d-ad63-317114a9b97f",
+      "Date": "2026-09-18",
+      "LogEntry": "Do we know why this is occuring: \nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-178081\n\n(Custom IB connection wizard doesn't advance correctly)",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 6
     }
   ]
 }
