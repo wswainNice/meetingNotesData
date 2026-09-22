@@ -937,15 +937,6 @@
       "Order": 1
     },
     {
-      "id": "fa317f54-a8ce-4b6b-8082-b3d398c75198",
-      "Date": "2026-09-17",
-      "LogEntry": "Chintan: Serverless requires new paid for license. Node.js.",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 4
-    },
-    {
       "id": "5351a379-978d-4461-8a10-5e00dcbbfc89",
       "Date": "2026-09-16",
       "LogEntry": "https://nice-ce-cxone-prod.atlassian.net/browse/DE-155619\n\nMigrate feature toggles. Chintan asks why migrate?  Are these long running FTs?",
@@ -991,15 +982,6 @@
       "Order": 10
     },
     {
-      "id": "d240d783-de31-4676-931b-be16866baacf",
-      "Date": "2026-09-17",
-      "LogEntry": "Data cleanup for orphaned skills",
-      "Assignee": "Marc",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 0
-    },
-    {
       "id": "27a84ae6-688d-49b2-86ba-fe0970077b94",
       "Date": "2026-09-17",
       "LogEntry": "Lindseys questions:\n\nhttps://teams.microsoft.com/l/message/19:9cfcb578419049ce8e07a45f34686a7f@thread.v2/1789590036408?context=%7B%22contextType%22%3A%22chat%22%7D",
@@ -1018,15 +1000,6 @@
       "Order": 2
     },
     {
-      "id": "ec1323d9-c7bc-4fb2-8e9c-7192ced930b8",
-      "Date": "2026-09-17",
-      "LogEntry": "Email from Ankita Gholap\n\nNeed to add test.yaml file to static directories. Does this affect us?",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 3
-    },
-    {
       "id": "c27e246f-8e79-4bd7-80ac-a76d0e2abee6",
       "Date": "2026-09-17",
       "LogEntry": "YOU HAVE RECEIVED A PERSONAL E-CARD FROM MAUREEN LEVERONI\n\nAny one else get one of these?",
@@ -1043,15 +1016,6 @@
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": true,
       "Order": 5
-    },
-    {
-      "id": "01a04312-9007-4890-9213-90323b2a6da4",
-      "Date": "2026-09-17",
-      "LogEntry": "Marc, are you free to work on the bug",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 6
     },
     {
       "id": "4784c97a-bb31-4ccb-a9d5-fe1160ca247e",
@@ -1090,17 +1054,8 @@
       "Order": 8
     },
     {
-      "id": "a07e6d34-06d9-47f2-9d78-460cebdae004",
-      "Date": "2026-09-17",
-      "LogEntry": "Reload DIgital Contacts -- what remains\n\nDO we need to let Chintan know he can merge?",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 9
-    },
-    {
       "id": "1f2e7660-13f7-4e42-bd7b-2e56afbc3d5d",
-      "Date": "2026-09-22",
+      "Date": "2026-10-01",
       "LogEntry": "Can you start on the bug fix for broken version",
       "Assignee": "Marc",
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
@@ -1108,49 +1063,148 @@
       "Order": 0
     },
     {
-      "id": "ed7b8ac5-4ed5-408e-9015-def766a04648",
-      "Date": "2026-09-17",
-      "LogEntry": "Grant, are you still waiting on Sivaram",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": true,
-      "Order": 10
-    },
-    {
-      "id": "a76d7be9-ca99-495d-8bdd-4ecc8a761654",
-      "Date": "2026-09-18",
-      "LogEntry": "How hard to remove the code for the no-risk security item discussed yseterday (said code is not in use)",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 0
-    },
-    {
-      "id": "be4e6a3e-786a-4461-a330-862f20365065",
+      "id": "4d8bc7f0-ce34-4387-8897-f8fc573d0ff3",
       "Date": "2026-09-18",
       "LogEntry": "Game show party?\n\n(Tracie Kalmar email)",
       "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "5c2ca2f4-5220-405d-ad63-317114a9b97f",
+      "Date": "2026-09-18",
+      "LogEntry": "Do we know why this is occuring: \nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-178081\n\n(Custom IB connection wizard doesn't advance correctly)\n\nAssigned to Shefi",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "feaea9ce-9b4a-44ef-855b-a3ff11f75c06",
+      "Date": "2026-09-18",
+      "LogEntry": "John needs PR refiew\nSHefi needs CR review\nCan you help each other?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "64c030c4-d955-427d-84fd-b389e7c1f39e",
+      "Date": "2026-09-21",
+      "LogEntry": "Question from Saurabh Misal re: EU3 (IESOV)",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "871f4639-dc47-4bee-b831-6a65e3427211",
+      "Date": "2026-09-28",
+      "LogEntry": "What team does Mary Pasca work for? Is there someone else she should be going to for PR approval?",
+      "Assignee": "Janhavi",
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": false,
       "Order": 1
     },
     {
-      "id": "4d8bc7f0-ce34-4387-8897-f8fc573d0ff3",
-      "Date": "2026-09-18",
-      "LogEntry": "Game show party?\n\n(Tracie Kalmar email)",
+      "id": "ab59ddf3-327c-4629-86c1-ec4925cdf703",
+      "Date": "2026-09-21",
+      "LogEntry": "Review Sanjog's deployment spreadsheet updates",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "95b649ed-fbcc-40b8-9341-a3f2d361017d",
+      "Date": "2026-09-22",
+      "LogEntry": "DE-125081 - CHeck logs to see if we are still using these maps",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 3
+    },
+    {
+      "id": "f2085fe5-6292-4c03-8656-8b8e6a8f3014",
+      "Date": "2026-09-21",
+      "LogEntry": "Dhirav wants a list of what we plan to deploy in our next deployment (195). And which of these have FTs behind them.\n\nEspecially wants to see if we have dependencies on Digital",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "3d074c9c-435e-404d-bede-f26fdbb38115",
+      "Date": "2026-09-21",
+      "LogEntry": "Mentions: 10 second timeout",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "cf668262-f8eb-4932-8459-f473ea2d5ae6",
+      "Date": "2026-09-21",
+      "LogEntry": "Who can come on Wed at 5:30",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "f62abd9b-28b6-4a7d-af50-7f825c2c14bf",
+      "Date": "2026-09-21",
+      "LogEntry": "Who can come on Wed at 5:30",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "3656256c-2867-4c64-85be-63e3e3437167",
+      "Date": "2026-09-21",
+      "LogEntry": "Janhavi -- so are you unblocked from migrations?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "2ef53fb2-be06-40dc-b359-bbfc6ab66cb2",
+      "Date": "2026-10-01",
+      "LogEntry": "Manisha's q in Sandy/Pune Sync chat about relay setup\n\nhttps://teams.microsoft.com/l/message/19:meeting_ZDg4Njc1NzYtM2JiNy00OWJlLWFlZGYtMjA1NTVjY2ViNDlk@thread.v2/1790000039132?context=%7B%22contextType%22%3A%22chat%22%7D",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
       "Order": 5
     },
     {
-      "id": "5c2ca2f4-5220-405d-ad63-317114a9b97f",
-      "Date": "2026-09-18",
-      "LogEntry": "Do we know why this is occuring: \nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-178081\n\n(Custom IB connection wizard doesn't advance correctly)",
+      "id": "17ee02d2-1671-4bd9-a69b-9c3dd88bedc4",
+      "Date": "2026-09-28",
+      "LogEntry": "Review Vikram's list of accomplishments (see email)\n\nLast promotion was 2022. Leadership change has kept him from progressing?\n\nSkip level with Vikram. He would like to understand how he can improve and what he can work on to get promoted. He is happy to talk to Patrick as well",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 2
+    },
+    {
+      "id": "d1c2ed58-0f51-4cca-aa2d-9ec139d97ffc",
+      "Date": "2026-09-28",
+      "LogEntry": "Shefi wants a raise",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 3
+    },
+    {
+      "id": "44f21953-5ed4-4956-b58a-6bb3b9b1ad71",
+      "Date": "2026-09-22",
+      "LogEntry": "See Chintans list of reqeusts in \"Email Product and R&D Sync\nhttps://teams.microsoft.com/l/message/19:meeting_M2QxMGViMWEtYTNmMy00M2Q0LTllOWQtMGFlYjFmYWZlNzI3@thread.v2/1790003393651?context=%7B%22contextType%22%3A%22chat%22%7D",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
-      "Order": 6
+      "Order": 4
     }
   ]
 }
