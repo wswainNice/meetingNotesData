@@ -1099,15 +1099,6 @@
       "Order": 0
     },
     {
-      "id": "871f4639-dc47-4bee-b831-6a65e3427211",
-      "Date": "2026-09-28",
-      "LogEntry": "What team does Mary Pasca work for? Is there someone else she should be going to for PR approval?",
-      "Assignee": "Janhavi",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 1
-    },
-    {
       "id": "ab59ddf3-327c-4629-86c1-ec4925cdf703",
       "Date": "2026-09-21",
       "LogEntry": "Review Sanjog's deployment spreadsheet updates",
@@ -1205,6 +1196,51 @@
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
       "Order": 4
+    },
+    {
+      "id": "a3cdd908-3329-4c52-8bf6-260077b65099",
+      "Date": "2026-09-23",
+      "LogEntry": "End Reason Status\n\nSteven seems to be ready for testing?",
+      "Assignee": "Marc",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "5e4b48e8-4ee6-441a-a5b8-46fc74183921",
+      "Date": "2026-09-23",
+      "LogEntry": "QA on UK Sov",
+      "Assignee": "Alyssa",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "f36a95b6-0ecb-470a-9ead-0ec373dcf789",
+      "Date": "2026-09-23",
+      "LogEntry": "How many manual tests?\n\n18",
+      "Assignee": "Janhavi",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "224c488d-077d-489b-ad66-e32b4860ba16",
+      "Date": "2026-09-22",
+      "LogEntry": "Damian is asking when bug will be closed. SLA ends tomorrow",
+      "Assignee": "John",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "2ef98a51-74b4-4646-894a-8b9930b540cb",
+      "Date": "2026-09-22",
+      "LogEntry": "UK Sov Firewall",
+      "Assignee": "Jared",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 6
     }
   ]
 }
