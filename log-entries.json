@@ -1241,6 +1241,69 @@
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
       "Order": 6
+    },
+    {
+      "id": "eb13978e-25ab-4012-8042-d7bcda3806e4",
+      "Date": "2026-09-23",
+      "LogEntry": "Dhirav asks if we can turn this on in 195\n\nHi Wick - how are we doing on 155120? Can we start turning off DW in regions where it is not used? in sprint 195?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 3
+    },
+    {
+      "id": "9ef29b7d-85f9-4ab6-811d-839555e61229",
+      "Date": "2026-09-23",
+      "LogEntry": "Dhirav asked me if all Lenovo laptops have the color issue, or just yours.",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "60589600-0d9d-4e96-ba5d-3cac32f8c0d9",
+      "Date": "2026-09-23",
+      "LogEntry": "Jared Asks: Can we ping OB API from all Core servers? A side and B side in LO26 and LO27",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "d24a00e3-f25a-4c13-809b-9d92f3938eba",
+      "Date": "2026-09-23",
+      "LogEntry": "Error SPecific bounce back -- Development?\n\nIsn't this in staging already?",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 6
+    },
+    {
+      "id": "3efecf3c-642f-4b7c-b86e-1f8f7ff22ac4",
+      "Date": "2026-09-24",
+      "LogEntry": "Give DX-Claude a BU number and tell it which region and it will give you a BU name (at least if you give it the cluster number it will)",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "51ca8bb3-f966-414a-8697-0aaab6b2fcad",
+      "Date": "2026-09-24",
+      "LogEntry": "Patrick wants to know how we can combine our RDS Email Configs and our SQL Server configs. \n\nWHat is in the SQL Server Config?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "c86a1d09-42be-4c3c-8e25-a0428803aff5",
+      "Date": "2026-09-24",
+      "LogEntry": "Aarthi, can you fill out the quality and eor fields for DE-135045",
+      "Assignee": "Aarthi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 2
     }
   ]
 }
