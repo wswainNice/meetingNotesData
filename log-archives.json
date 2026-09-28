@@ -1889,6 +1889,24 @@
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": true,
       "Order": 1
+    },
+    {
+      "id": "7c8f4fcf-13b9-40d5-8723-19e3157ac965",
+      "Date": "2026-09-24",
+      "LogEntry": "Implemented by AI should be 'No\" only on epics where AI is not used at all",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "9d8b14b9-a6ff-4f69-8de3-41e3b1c40a5d",
+      "Date": "2026-09-24",
+      "LogEntry": "FT should be deployed\npast tense or present",
+      "Assignee": "Marc",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 6
     }
   ]
 }

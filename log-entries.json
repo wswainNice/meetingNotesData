@@ -1172,7 +1172,7 @@
     },
     {
       "id": "17ee02d2-1671-4bd9-a69b-9c3dd88bedc4",
-      "Date": "2026-09-28",
+      "Date": "2026-09-24",
       "LogEntry": "Review Vikram's list of accomplishments (see email)\n\nLast promotion was 2022. Leadership change has kept him from progressing?\n\nSkip level with Vikram. He would like to understand how he can improve and what he can work on to get promoted. He is happy to talk to Patrick as well",
       "Assignee": "",
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
@@ -1181,7 +1181,7 @@
     },
     {
       "id": "d1c2ed58-0f51-4cca-aa2d-9ec139d97ffc",
-      "Date": "2026-09-28",
+      "Date": "2026-09-24",
       "LogEntry": "Shefi wants a raise",
       "Assignee": "",
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
@@ -1248,7 +1248,7 @@
       "LogEntry": "Dhirav asks if we can turn this on in 195\n\nHi Wick - how are we doing on 155120? Can we start turning off DW in regions where it is not used? in sprint 195?",
       "Assignee": "",
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 3
     },
     {
@@ -1257,7 +1257,7 @@
       "LogEntry": "Dhirav asked me if all Lenovo laptops have the color issue, or just yours.",
       "Assignee": "Vikram",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 4
     },
     {
@@ -1284,7 +1284,7 @@
       "LogEntry": "Give DX-Claude a BU number and tell it which region and it will give you a BU name (at least if you give it the cluster number it will)",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 0
     },
     {
@@ -1293,7 +1293,7 @@
       "LogEntry": "Patrick wants to know how we can combine our RDS Email Configs and our SQL Server configs. \n\nWHat is in the SQL Server Config?",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 1
     },
     {
@@ -1302,8 +1302,134 @@
       "LogEntry": "Aarthi, can you fill out the quality and eor fields for DE-135045",
       "Assignee": "Aarthi",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "8f94725d-230d-48a5-9739-a24cb52f8d25",
+      "Date": "2026-09-24",
+      "LogEntry": "Implemented by AI should be 'No\" only on epics where AI is not used at all",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "6c8c53b8-eea6-44ce-ab68-6307fa73c01e",
+      "Date": "2026-09-24",
+      "LogEntry": "QA Help:\nJared: Waitall -- \nVikram - replace SES BOunce\nShefi - Bounce back message\n\n",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "813c6e97-4a47-4ee9-9467-f4257cd474db",
+      "Date": "2026-09-24",
+      "LogEntry": "John -- bug closed. Damian wants to know why the SLA changed.",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "b77ec2b8-029a-4b49-b620-38c272285d28",
+      "Date": "2026-09-24",
+      "LogEntry": "Should we pull into 26.4",
+      "Assignee": "Aarthi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 5
+    },
+    {
+      "id": "d8491244-e81b-4ae2-b6e6-7b71d00a40e8",
+      "Date": "2026-09-24",
+      "LogEntry": "API Shared Credits -- How do we get those?\n\nSiviaram said Vikram tolk him abou them",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 7
+    },
+    {
+      "id": "db7767d2-13e9-4237-9078-0960c3f9e1b6",
+      "Date": "2026-09-24",
+      "LogEntry": "Sivaram asks: Is there a limit to the extensions?\n\nTask based spend based on customer commitment. How many extensions?\n\nSivaram Helped CHintan with claud bot changes, ate a lot of tokens\nAlso ran a huge subagent. Inmemory cache changes took $170 in a session. He'll change to task specific. Also was on Opus high. Have it scoped narrowly and with less expensive models.\n\nALso, Brand Embassy code we use claude because we don't know code, so that takes tokens to read BE code",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 8
+    },
+    {
+      "id": "eba0145d-afaf-4310-ba32-e0bfc92cb240",
+      "Date": "2026-09-24",
+      "LogEntry": "Are you aware of the API for tokens?\n\nIs there way to share tokens with team members?",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "1fa6fd9c-1faf-4a22-a45a-b83daebe3788",
+      "Date": "2026-09-25",
+      "LogEntry": "Can you help with Aarthi's ticket\nDE-149087\n\na firewall issue in the dev environment preventing her from reaching a service. Because Priyanka is sending via gmail she is not getting this error",
+      "Assignee": "Shefi",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "7142d487-38e5-4773-a90d-5010fcc735a9",
+      "Date": "2026-09-25",
+      "LogEntry": "Patrick has asked the email team to move their setup data off of MyGLobals and into a team managed RDS DB.\n\nIs there a steam the email team could use subscribe to in order to keep the following data up-to-date:\nPOC\nClusterVIP\nMediaType\nBU Number\n\nAlso, where is this data populated. Does it go into ACD only then get sync'd to DFO?\nIs there a stream that flows both from DFO to ACD and one that flows from ACD to DFO?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "5773fe60-1422-4efc-bb50-34482e8279f2",
+      "Date": "2026-09-25",
+      "LogEntry": "I told Patrick I would send him the recording of the system review with Chintan. Can you make me a link -- I don't have rights to create a link",
+      "Assignee": "Alyssa",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": false,
       "Order": 2
+    },
+    {
+      "id": "c908ce1e-f187-41a1-a95a-10e067f5ef82",
+      "Date": "2026-09-25",
+      "LogEntry": "Vivek Durafe email: Shared EKS Secret",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "4db2e25d-79cf-40d9-b6c3-ba940065aee6",
+      "Date": "2026-09-25",
+      "LogEntry": "Girish Wani asking John about missing emails",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "9eb3f926-04a6-4670-8241-52e231b9e00d",
+      "Date": "2026-09-25",
+      "LogEntry": "Valkey deployment -- Ghosha promising fix to cacheing",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 6
+    },
+    {
+      "id": "83df642e-99f1-4e56-b01b-1766bf2b8c87",
+      "Date": "2026-09-25",
+      "LogEntry": "Link from alyssa to review of system recording",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 7
     }
   ]
 }
