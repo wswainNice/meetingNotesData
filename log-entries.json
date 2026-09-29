@@ -848,7 +848,7 @@
     },
     {
       "id": "4abb0838-1090-400e-a820-e521066815e5",
-      "Date": "2026-08-31",
+      "Date": "2026-10-12",
       "LogEntry": "ALyssa needs a user on EU3 for testing",
       "Assignee": "Dhirav",
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
@@ -1171,24 +1171,6 @@
       "Order": 5
     },
     {
-      "id": "17ee02d2-1671-4bd9-a69b-9c3dd88bedc4",
-      "Date": "2026-09-24",
-      "LogEntry": "Review Vikram's list of accomplishments (see email)\n\nLast promotion was 2022. Leadership change has kept him from progressing?\n\nSkip level with Vikram. He would like to understand how he can improve and what he can work on to get promoted. He is happy to talk to Patrick as well",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 2
-    },
-    {
-      "id": "d1c2ed58-0f51-4cca-aa2d-9ec139d97ffc",
-      "Date": "2026-09-24",
-      "LogEntry": "Shefi wants a raise",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 3
-    },
-    {
       "id": "44f21953-5ed4-4956-b58a-6bb3b9b1ad71",
       "Date": "2026-09-22",
       "LogEntry": "See Chintans list of reqeusts in \"Email Product and R&D Sync\nhttps://teams.microsoft.com/l/message/19:meeting_M2QxMGViMWEtYTNmMy00M2Q0LTllOWQtMGFlYjFmYWZlNzI3@thread.v2/1790003393651?context=%7B%22contextType%22%3A%22chat%22%7D",
@@ -1351,26 +1333,8 @@
       "Order": 7
     },
     {
-      "id": "db7767d2-13e9-4237-9078-0960c3f9e1b6",
-      "Date": "2026-09-24",
-      "LogEntry": "Sivaram asks: Is there a limit to the extensions?\n\nTask based spend based on customer commitment. How many extensions?\n\nSivaram Helped CHintan with claud bot changes, ate a lot of tokens\nAlso ran a huge subagent. Inmemory cache changes took $170 in a session. He'll change to task specific. Also was on Opus high. Have it scoped narrowly and with less expensive models.\n\nALso, Brand Embassy code we use claude because we don't know code, so that takes tokens to read BE code",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 8
-    },
-    {
-      "id": "eba0145d-afaf-4310-ba32-e0bfc92cb240",
-      "Date": "2026-09-24",
-      "LogEntry": "Are you aware of the API for tokens?\n\nIs there way to share tokens with team members?",
-      "Assignee": "",
-      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
-      "Reviewed": false,
-      "Order": 4
-    },
-    {
       "id": "1fa6fd9c-1faf-4a22-a45a-b83daebe3788",
-      "Date": "2026-09-25",
+      "Date": "2026-09-29",
       "LogEntry": "Can you help with Aarthi's ticket\nDE-149087\n\na firewall issue in the dev environment preventing her from reaching a service. Because Priyanka is sending via gmail she is not getting this error",
       "Assignee": "Shefi",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
@@ -1430,6 +1394,96 @@
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": false,
       "Order": 7
+    },
+    {
+      "id": "c3ac52ef-4a92-459c-b55e-538df8732690",
+      "Date": "2026-09-28",
+      "LogEntry": "Reprocess emails for Chubb European group and let them know how many. How hard to send if we have just a .eml file?\n\nhttps://teams.microsoft.com/l/message/19:23cba4102ef44acf9f0e1965602a1fba@thread.skype/1790608900129?tenantId=7123dabd-0e87-4da9-9cb9-b7ec82011aad&groupId=930c10af-48f9-41b6-ba52-0345000ba7b3&parentMessageId=1789077720706&teamName=TS%2FR%26D%20Support%20Swarm&channelName=Channels%20(Ingress%20and%20Egress)&createdTime=1790608900129",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 1
+    },
+    {
+      "id": "d997b85c-b89e-4cfe-ae19-bf5178b08af3",
+      "Date": "2026-09-28",
+      "LogEntry": "Review Bugs",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "7c57af25-2437-4370-9cbf-c444aa3197b1",
+      "Date": "2026-09-28",
+      "LogEntry": "Is jump box access needed to get to webtools on fedramp.\n\nWhat does tam need to access FedRAMP email tools",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "43e93a11-f60f-44c4-9da9-b9158fe0680f",
+      "Date": "2026-09-28",
+      "LogEntry": "Jacob has something to discuss\n",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 6
+    },
+    {
+      "id": "607b39ec-2293-40b4-a22b-0ece91cfd5bf",
+      "Date": "2026-09-30",
+      "LogEntry": "For SendGrid meeting with Patrick,  how do we move our data from MyGlobals to RDS?",
+      "Assignee": "",
+      "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "4b16f42b-57e4-4090-afb3-69aa01f6b092",
+      "Date": "2026-09-29",
+      "LogEntry": "Sabir Alvi email -- rollback survey",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 11
+    },
+    {
+      "id": "a1a07b23-6709-453e-bc37-a27a003db0eb",
+      "Date": "2026-09-29",
+      "LogEntry": "Sabir Alvi email -- rollback survey",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 0
+    },
+    {
+      "id": "08dc7f70-cb20-420a-b167-9b3d8d669e68",
+      "Date": "2026-09-29",
+      "LogEntry": "FT to turn of services.\n\nIf we start out on a new region where perfomance isn't critical, how soon can we have it deployed?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 12
+    },
+    {
+      "id": "ea4880e8-1a74-471f-9095-75f335c36bcb",
+      "Date": "2026-09-29",
+      "LogEntry": "Deployment to follow DFO deployment schedule and order.\n\nWe may end up imposing our own moratoriums. It would be good to have our code on the same CU release in the same regions",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 13
+    },
+    {
+      "id": "f4248acc-57f8-4c9e-8a29-2a80dbc01417",
+      "Date": "2026-09-29",
+      "LogEntry": "Deployment to follow DFO deployment schedule and order.\n\nWe may end up imposing our own moratoriums. It would be good to have our code on the same CU release in the same regions",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 14
     }
   ]
 }

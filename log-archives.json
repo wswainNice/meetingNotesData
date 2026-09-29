@@ -1907,6 +1907,96 @@
       "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
       "Reviewed": false,
       "Order": 6
+    },
+    {
+      "id": "04e463f1-065a-4519-884c-ce9e5e5399b8",
+      "Date": "2026-09-28",
+      "LogEntry": "How long to finish GDPR. WOrk in it today",
+      "Assignee": "Grant",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "87f8994e-34cc-46f0-a0e3-fa3304c0dbed",
+      "Date": "2026-09-28",
+      "LogEntry": "This bug has breached our OLA\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-178617",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "b3d32520-ebc5-43a5-a708-1ffa4740e1db",
+      "Date": "2026-09-28",
+      "LogEntry": "Review Bugs",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "72de6bed-066a-413c-b216-e3b8c7e2a80e",
+      "Date": "2026-09-28",
+      "LogEntry": "Can someone help Janhavi",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 7
+    },
+    {
+      "id": "17ee02d2-1671-4bd9-a69b-9c3dd88bedc4",
+      "Date": "2026-09-24",
+      "LogEntry": "Review Vikram's list of accomplishments (see email)\n\nLast promotion was 2022. Leadership change has kept him from progressing?\n\nSkip level with Vikram. He would like to understand how he can improve and what he can work on to get promoted. He is happy to talk to Patrick as well",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "d1c2ed58-0f51-4cca-aa2d-9ec139d97ffc",
+      "Date": "2026-09-24",
+      "LogEntry": "Shefi wants a raise",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "db7767d2-13e9-4237-9078-0960c3f9e1b6",
+      "Date": "2026-09-24",
+      "LogEntry": "Sivaram asks: Is there a limit to the extensions?\n\nTask based spend based on customer commitment. How many extensions?\n\nSivaram Helped CHintan with claud bot changes, ate a lot of tokens\nAlso ran a huge subagent. Inmemory cache changes took $170 in a session. He'll change to task specific. Also was on Opus high. Have it scoped narrowly and with less expensive models.\n\nALso, Brand Embassy code we use claude because we don't know code, so that takes tokens to read BE code",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 8
+    },
+    {
+      "id": "eba0145d-afaf-4310-ba32-e0bfc92cb240",
+      "Date": "2026-09-24",
+      "LogEntry": "Are you aware of the API for tokens?\n\nIs there way to share tokens with team members?",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 4
+    },
+    {
+      "id": "ba57e74b-91e4-4b5e-a208-0c5013810855",
+      "Date": "2026-09-24",
+      "LogEntry": "CR R&D group is being removed at the end of October. This is the group being used for managers / directors to approve CRs.\n\nSee screen shot in downloads folder named:\nTonyWilliams_CR_Group_Oct31_Screenshot 2026-09-28 095758\n\nAre you aware of this?",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 9
+    },
+    {
+      "id": "f9e02177-21d9-40d2-90b1-cc481dc73c07",
+      "Date": "2026-09-24",
+      "LogEntry": "Vikram's Laptop",
+      "Assignee": "",
+      "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
+      "Reviewed": true,
+      "Order": 10
     }
   ]
 }
