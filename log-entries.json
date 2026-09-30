@@ -1338,7 +1338,7 @@
       "LogEntry": "Can you help with Aarthi's ticket\nDE-149087\n\na firewall issue in the dev environment preventing her from reaching a service. Because Priyanka is sending via gmail she is not getting this error",
       "Assignee": "Shefi",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 0
     },
     {
@@ -1401,7 +1401,7 @@
       "LogEntry": "Reprocess emails for Chubb European group and let them know how many. How hard to send if we have just a .eml file?\n\nhttps://teams.microsoft.com/l/message/19:23cba4102ef44acf9f0e1965602a1fba@thread.skype/1790608900129?tenantId=7123dabd-0e87-4da9-9cb9-b7ec82011aad&groupId=930c10af-48f9-41b6-ba52-0345000ba7b3&parentMessageId=1789077720706&teamName=TS%2FR%26D%20Support%20Swarm&channelName=Channels%20(Ingress%20and%20Egress)&createdTime=1790608900129",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 1
     },
     {
@@ -1433,7 +1433,7 @@
     },
     {
       "id": "607b39ec-2293-40b4-a22b-0ece91cfd5bf",
-      "Date": "2026-09-30",
+      "Date": "2026-09-29",
       "LogEntry": "For SendGrid meeting with Patrick,  how do we move our data from MyGlobals to RDS?",
       "Assignee": "",
       "Subject": "86919ad6-44a5-4ff9-955b-51410d0c83d0",
@@ -1446,35 +1446,8 @@
       "LogEntry": "Sabir Alvi email -- rollback survey",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
-      "Reviewed": false,
+      "Reviewed": true,
       "Order": 11
-    },
-    {
-      "id": "a1a07b23-6709-453e-bc37-a27a003db0eb",
-      "Date": "2026-09-29",
-      "LogEntry": "Sabir Alvi email -- rollback survey",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 0
-    },
-    {
-      "id": "08dc7f70-cb20-420a-b167-9b3d8d669e68",
-      "Date": "2026-09-29",
-      "LogEntry": "FT to turn of services.\n\nIf we start out on a new region where perfomance isn't critical, how soon can we have it deployed?",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 12
-    },
-    {
-      "id": "ea4880e8-1a74-471f-9095-75f335c36bcb",
-      "Date": "2026-09-29",
-      "LogEntry": "Deployment to follow DFO deployment schedule and order.\n\nWe may end up imposing our own moratoriums. It would be good to have our code on the same CU release in the same regions",
-      "Assignee": "",
-      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
-      "Reviewed": false,
-      "Order": 13
     },
     {
       "id": "f4248acc-57f8-4c9e-8a29-2a80dbc01417",
@@ -1482,8 +1455,224 @@
       "LogEntry": "Deployment to follow DFO deployment schedule and order.\n\nWe may end up imposing our own moratoriums. It would be good to have our code on the same CU release in the same regions",
       "Assignee": "",
       "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 14
+    },
+    {
+      "id": "67c2dade-a8be-4841-8e8a-e82045c63917",
+      "Date": "2026-09-29",
+      "LogEntry": "Deployments\n\nhttps://teams.microsoft.com/l/message/19:meeting_M2QxMGViMWEtYTNmMy00M2Q0LTllOWQtMGFlYjFmYWZlNzI3@thread.v2/1790686226820?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 15
+    },
+    {
+      "id": "7f275574-cf0e-4728-ac83-6e75be883020",
+      "Date": "2026-09-29",
+      "LogEntry": "Vikram, did you let Priyanka know your code is ready to test?\n\nShefi, you too.",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 16
+    },
+    {
+      "id": "1adf0afd-6fec-4b33-bb4e-0ef3473be030",
+      "Date": "2026-09-30",
+      "LogEntry": "Shefi, can you take this bug\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-179920",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "e365c5f5-d25c-447d-9b95-38f73a2a4d58",
+      "Date": "2026-09-30",
+      "LogEntry": "I have Friday off",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 2
+    },
+    {
+      "id": "51f01b0b-1d13-42ee-89b1-5b07899bfd9b",
+      "Date": "2026-09-30",
+      "LogEntry": "Can we get a 195 deployment schedule to Dhirav",
+      "Assignee": "",
+      "Subject": "bd8e2181-26ab-4774-be56-577b42be4ae1",
+      "Reviewed": false,
+      "Order": 4
+    },
+    {
+      "id": "2853e8be-6666-46b5-99a3-7bd082e22aa5",
+      "Date": "2026-09-30",
+      "LogEntry": "Next: \n[27.1] 14^^. Shared Cache - Caching of hot path candidates in DX Email\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-128076\n\nIs this still a 27.1 item?",
+      "Assignee": "",
+      "Subject": "bd8e2181-26ab-4774-be56-577b42be4ae1",
+      "Reviewed": false,
+      "Order": 5
+    },
+    {
+      "id": "264d0066-dbf9-4b50-875b-02a691ffc1e0",
+      "Date": "2026-09-30",
+      "LogEntry": "Next + 1\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-179986\n\nIs there more to discuss here? I asked Vikram\n",
+      "Assignee": "",
+      "Subject": "bd8e2181-26ab-4774-be56-577b42be4ae1",
+      "Reviewed": false,
+      "Order": 6
+    },
+    {
+      "id": "9dfe6cd5-6319-4018-9fb4-40be74ca7951",
+      "Date": "2026-09-30",
+      "LogEntry": "Avri Glick Email",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 7
+    },
+    {
+      "id": "ba0e9f04-a3ad-4758-a183-30ac4ef179d7",
+      "Date": "2026-09-30",
+      "LogEntry": "Review Chintan's changes to https://nice-ce-cxone-prod.atlassian.net/browse/DE-128076",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 8
+    },
+    {
+      "id": "10b2d76c-f17a-4f6f-b2da-15766d3422f6",
+      "Date": "2026-09-30",
+      "LogEntry": "Get info to Ghosha for De-179986",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 9
+    },
+    {
+      "id": "15ce0690-f690-4344-b301-66c628236563",
+      "Date": "2026-09-30",
+      "LogEntry": "Chintan added priorities to 27.1. P1 and P2 try to keep. P3 and P4 we can move if needed\n\nChintan also added high level story points",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 10
+    },
+    {
+      "id": "8d76bbc5-67ef-40af-9430-f1d6f2ec7fd0",
+      "Date": "2026-09-30",
+      "LogEntry": "Sanjog has a PR and CR for us to review",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 11
+    },
+    {
+      "id": "6b9b50a3-fc13-4ce6-9b80-3130b53d8b4c",
+      "Date": "2026-10-01",
+      "LogEntry": "Regression Retro: \nhttps://niceonline-my.sharepoint.com/:b:/g/personal/karthik_ramesh_nice_com/IQBMOhjC8tpwTKrw1mCWSK5WAXLt0Bp78bmXwfbLjRc__W8?e=DY97xO\n\nShows we are have not completed retro",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 6
+    },
+    {
+      "id": "79509fd5-6f63-43f1-956a-dbbc7c3e6139",
+      "Date": "2026-09-30",
+      "LogEntry": "Avri Glick is asking if this can be completed by 196\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-171198",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 12
+    },
+    {
+      "id": "fd7d396b-fe30-4b0d-a653-56d91790eb89",
+      "Date": "2026-09-30",
+      "LogEntry": "Girish Wani request: Can we get more info on the remaining 99 emails that we could not reprocess?",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 13
+    },
+    {
+      "id": "ccdd1708-46d6-4627-a017-2b9d12160268",
+      "Date": "2026-09-30",
+      "LogEntry": "Review WorkBot swarm mention of me",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
       "Reviewed": false,
       "Order": 14
+    },
+    {
+      "id": "0d31220d-488b-4196-8a58-536b75f6472a",
+      "Date": "2026-09-30",
+      "LogEntry": "Damian is asking about the bug: how and when it happened and why we own in\n\nhttps://teams.microsoft.com/l/message/19:4476843eb55b446a9c7e5d26917fe116@thread.v2/1790756484031?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "",
+      "Subject": "206f163d-428c-4b01-81e2-672c586be457",
+      "Reviewed": false,
+      "Order": 15
+    },
+    {
+      "id": "a890241b-3457-4213-9acf-32b42cd988eb",
+      "Date": "2026-10-01",
+      "LogEntry": "Secrets Management discussion to be lead by Chintan",
+      "Assignee": "",
+      "Subject": "99b7fced-e4a1-4c6b-a0d6-a8674da1e50f",
+      "Reviewed": false,
+      "Order": 16
+    },
+    {
+      "id": "b319e446-9d79-495f-ac16-8a9e695f2353",
+      "Date": "2026-09-30",
+      "LogEntry": "Domain Verification Failure question from NOC\n\nhttps://teams.microsoft.com/l/message/19:b16b44023d7f47c1bde5559ab2340aeb@thread.v2/1790790864311?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 16
+    },
+    {
+      "id": "eac97d1f-8429-45eb-9cb0-1e23ba817279",
+      "Date": "2026-09-30",
+      "LogEntry": "Vikram, did the missing email fix you added go out last night or is that in 195?\n\nDeployed to NA1, NA2, NA3 today. The rest in 195",
+      "Assignee": "Vikram",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 17
+    },
+    {
+      "id": "929489fd-0f7f-4fda-913c-41637192714e",
+      "Date": "2026-09-30",
+      "LogEntry": "Review https://nice-ce-cxone-prod.atlassian.net/browse/DE-180170\n Graph API Outage Recovery & Reliability Enhancements",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 18
+    },
+    {
+      "id": "a9d9dfd7-6ec6-4f2b-ab52-25a781c97ca3",
+      "Date": "2026-09-30",
+      "LogEntry": "Are we ok with this enhancement:\nCC: ABN AMRO: Graph API Configuration Betterment",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": true,
+      "Order": 19
+    },
+    {
+      "id": "f2286b38-3afb-49bb-92a1-2ef192f5e1a0",
+      "Date": "2026-10-01",
+      "LogEntry": "Be sure to state a workaround in your P3 bugs or they will be changed to P2",
+      "Assignee": "",
+      "Subject": "c2fbb4c5-4f62-4251-bd55-a7b09befae15",
+      "Reviewed": false,
+      "Order": 17
+    },
+    {
+      "id": "3146b094-3820-4782-9350-cdb4b003b37f",
+      "Date": "2026-10-01",
+      "LogEntry": "Be sure to state a workaround in your P3 bugs or they will be changed to P2",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": false,
+      "Order": 18
     }
   ]
 }

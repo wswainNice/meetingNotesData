@@ -1997,6 +1997,114 @@
       "Subject": "b1707ef0-16a7-402b-814a-90f3bb2893ea",
       "Reviewed": true,
       "Order": 10
+    },
+    {
+      "id": "a1a07b23-6709-453e-bc37-a27a003db0eb",
+      "Date": "2026-09-29",
+      "LogEntry": "Sabir Alvi email -- rollback survey",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "08dc7f70-cb20-420a-b167-9b3d8d669e68",
+      "Date": "2026-09-29",
+      "LogEntry": "FT to turn of services.\n\nIf we start out on a new region where perfomance isn't critical, how soon can we have it deployed?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 12
+    },
+    {
+      "id": "ea4880e8-1a74-471f-9095-75f335c36bcb",
+      "Date": "2026-09-29",
+      "LogEntry": "Deployment to follow DFO deployment schedule and order.\n\nWe may end up imposing our own moratoriums. It would be good to have our code on the same CU release in the same regions",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 13
+    },
+    {
+      "id": "7f544e99-ccde-4e96-924a-c85df2558bed",
+      "Date": "2026-09-29",
+      "LogEntry": "Chintan's question about EFOs\n\nhttps://teams.microsoft.com/l/message/19:meeting_Mjk3YjE4YjYtNmE4Ny00MjBmLTlhYTYtM2RmZWY4ZjkyZWY1@thread.v2/1790683588148?context=%7B%22contextType%22%3A%22chat%22%7D",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 1
+    },
+    {
+      "id": "22877375-1b3f-4e23-8123-b3f2385ef21c",
+      "Date": "2026-09-29",
+      "LogEntry": "Is this covered in the secret management work we are doing?\n\nhttps://nice-ce-cxone-prod.atlassian.net/browse/DE-175490",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 16
+    },
+    {
+      "id": "f76d7881-5735-448f-a3a4-d5b95f28faf6",
+      "Date": "2026-09-29",
+      "LogEntry": "Grant, GDPR -- how much left?",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 17
+    },
+    {
+      "id": "070bbe2a-b153-4b37-a8dd-c199aa3df84f",
+      "Date": "2026-09-29",
+      "LogEntry": "Sivaram -- good enough to send it by next Monday",
+      "Assignee": "Sivaram",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 18
+    },
+    {
+      "id": "c0fd2d3f-b930-4465-9fbd-d4577e40b5b3",
+      "Date": "2026-09-30",
+      "LogEntry": "Whare are Aika, Mike and Brett? Why are they using DO98?\n\nDO98 should be healthy again, Aika, Mark, Brett",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 0
+    },
+    {
+      "id": "cfaff4c2-0238-49ca-b361-61548c487fc4",
+      "Date": "2026-09-30",
+      "LogEntry": "I have Firday off",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 3
+    },
+    {
+      "id": "2330460f-ab48-4650-88fd-568db251c958",
+      "Date": "2026-09-30",
+      "LogEntry": "Janhavi needs help",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 15
+    },
+    {
+      "id": "2eb42a2f-294d-4555-93a4-ab0b0a296fd8",
+      "Date": "2026-09-30",
+      "LogEntry": "Review BUgs",
+      "Assignee": "",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 16
+    },
+    {
+      "id": "59e80da2-ba93-47db-8274-24f2aa2a9468",
+      "Date": "2026-09-30",
+      "LogEntry": "WHo do we need attention from for AUSov deployment?",
+      "Assignee": "Alyssa",
+      "Subject": "12f4442b-6193-4459-9304-2ef5b9c55b1f",
+      "Reviewed": true,
+      "Order": 17
     }
   ]
 }
